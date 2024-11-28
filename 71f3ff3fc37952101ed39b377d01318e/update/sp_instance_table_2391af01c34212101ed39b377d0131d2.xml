@@ -7,13 +7,13 @@
         <display_field/>
         <field_list>u_job,u_requested_by,u_department,state</field_list>
         <filter/>
-        <glyph/>
+        <glyph>empty</glyph>
         <id/>
         <maximum_entries>7</maximum_entries>
         <order>2</order>
         <order_by>sys_updated_on</order_by>
         <order_direction>desc</order_direction>
-        <roles/>
+        <roles>x_1545096_zerecrui.admin,x_1545096_zerecrui.ZeRecruiter_HR,x_1545096_zerecrui.Job_ Approver,x_1545096_zerecrui.job_requisition_user</roles>
         <short_description/>
         <size>md</size>
         <sp_column display_value="2">007ff60ac30212101ed39b377d0131c7</sp_column>
@@ -23,14 +23,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-11-22 05:44:05</sys_created_on>
         <sys_id>2391af01c34212101ed39b377d0131d2</sys_id>
-        <sys_mod_count>18</sys_mod_count>
+        <sys_mod_count>19</sys_mod_count>
         <sys_name>All Job Requisition Requests</sys_name>
         <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
         <sys_policy/>
         <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
         <sys_update_name>sp_instance_table_2391af01c34212101ed39b377d0131d2</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-11-26 08:00:04</sys_updated_on>
+        <sys_updated_on>2024-11-28 11:51:27</sys_updated_on>
         <table>x_1545096_zerecrui_job_requisition</table>
         <title>All Job Requisition Requests</title>
         <url/>

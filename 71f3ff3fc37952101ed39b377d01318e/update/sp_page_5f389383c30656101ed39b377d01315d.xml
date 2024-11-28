@@ -5,27 +5,27 @@
         <draft>false</draft>
         <dynamic_title_structure/>
         <human_readable_url_structure/>
-        <id>zerecruiter_home</id>
+        <id>zerecruiter_hire</id>
         <internal>false</internal>
         <omit_watcher>false</omit_watcher>
         <public>false</public>
-        <roles/>
+        <roles>x_1545096_zerecrui.ZeRecruiter_HR,x_1545096_zerecrui.techHead_interviewer,x_1545096_zerecrui.Tech_interviewer,x_1545096_zerecrui.admin</roles>
         <seo_script/>
         <short_description/>
         <sys_class_name>sp_page</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-11-22 05:30:04</sys_created_on>
-        <sys_id>2e6e1bc9c30212101ed39b377d013114</sys_id>
-        <sys_mod_count>5</sys_mod_count>
-        <sys_name>zerecruiter_home</sys_name>
+        <sys_created_on>2024-11-28 10:10:56</sys_created_on>
+        <sys_id>5f389383c30656101ed39b377d01315d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>zerecruiter_hire</sys_name>
         <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
         <sys_policy/>
         <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
-        <sys_update_name>sp_page_2e6e1bc9c30212101ed39b377d013114</sys_update_name>
+        <sys_update_name>sp_page_5f389383c30656101ed39b377d01315d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-11-28 11:53:24</sys_updated_on>
-        <title>ZeRecruiter Home</title>
+        <sys_updated_on>2024-11-28 11:41:17</sys_updated_on>
+        <title>ZeRecruiter_Hire</title>
         <use_seo_script>false</use_seo_script>
     </sp_page>
-    <sys_translated_text action="delete_multiple" query="documentkey=2e6e1bc9c30212101ed39b377d013114"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=5f389383c30656101ed39b377d01315d"/>
 </record_update>
