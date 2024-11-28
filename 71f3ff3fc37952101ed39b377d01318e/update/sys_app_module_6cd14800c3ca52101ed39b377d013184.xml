@@ -4,10 +4,8 @@
         <application display_value="Job Requisition">53643bbfc37952101ed39b377d013110</application>
         <assessment/>
         <device_type/>
-        <filter table="x_1545096_zerecrui_job_requisition">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
-            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
-        </filter>
-        <hint>all active records</hint>
+        <filter/>
+        <hint>all approved records</hint>
         <homepage/>
         <image/>
         <link_type>LIST</link_type>
@@ -16,28 +14,28 @@
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_1545096_zerecrui_job_requisition</name>
         <order>300</order>
-        <override_menu_roles>false</override_menu_roles>
-        <query/>
+        <override_menu_roles>true</override_menu_roles>
+        <query>&amp;sysparm_fixed_query=state=3</query>
         <report/>
         <require_confirmation>true</require_confirmation>
-        <roles/>
+        <roles>x_1545096_zerecrui.ZeRecruiter_HR</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-11-18 10:53:18</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>6cd14800c3ca52101ed39b377d013184</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Open </sys_name>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>Approved Requests</sys_name>
         <sys_overrides/>
         <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
         <sys_policy/>
         <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
         <sys_update_name>sys_app_module_6cd14800c3ca52101ed39b377d013184</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-11-18 10:53:18</sys_updated_on>
+        <sys_updated_on>2024-11-26 05:37:39</sys_updated_on>
         <timeline_page/>
-        <title>Open </title>
+        <title>Approved Requests</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

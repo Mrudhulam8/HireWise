@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[api.controller = function () {
+    var c = this;
+
+    // Function to redirect to the Record Producer
+    c.redirectToRecordProducer = function () {
+        window.location.href = c.data.url;
+    };
+};
+]]></client_script>
+        <controller_as>c</controller_as>
+        <css>.redirect-widget {&#13;
+  text-align: center;&#13;
+  margin: 20px;&#13;
+}&#13;
+&#13;
+.redirect-widget .btn {&#13;
+  background-color: #007bff;&#13;
+  color: #fff;&#13;
+  padding: 10px 20px;&#13;
+  font-size: 16px;&#13;
+  border-radius: 5px;&#13;
+  border: none;&#13;
+  cursor: pointer;&#13;
+}&#13;
+&#13;
+.redirect-widget .btn:hover {&#13;
+  background-color: #0056b3;&#13;
+}&#13;
+</css>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>false</has_preview>
+        <id/>
+        <internal>false</internal>
+        <link><![CDATA[function link(scope, element, attrs, controller) {
+  
+}]]></link>
+        <name>create job request</name>
+        <option_schema/>
+        <public>false</public>
+        <roles/>
+        <script><![CDATA[(function () {
+    // Populate the 'data' object with the URL of the record producer
+    var rpSysId = 'https://dev216831.service-now.com/nav_to.do?uri=sc_cat_item_producer.do?sys_id=ac775741c30212101ed39b377d013144'; // Replace with your Record Producer Sys ID
+    data.url ='/record_producer.do?sys_id=' + rpSysId;
+})();
+]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-22 06:27:51</sys_created_on>
+        <sys_id>e3992fc9c34212101ed39b377d0131dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>create job request</sys_name>
+        <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
+        <sys_update_name>sp_widget_e3992fc9c34212101ed39b377d0131dd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-22 06:27:51</sys_updated_on>
+        <template><![CDATA[<div class="redirect-widget">
+  <button class="btn btn-primary" ng-click="openForm()">
+    Create Job Requisition
+  </button>
+</div>
+]]></template>
+    </sp_widget>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>e3992fc9c34212101ed39b377d0131dd</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-22 06:27:42</sys_created_on>
+        <sys_id>229be78dc34212101ed39b377d0131dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-22 06:27:42</sys_updated_on>
+        <table>sp_widget</table>
+        <use_es_latest>true</use_es_latest>
+    </sys_es_latest_script>
+</record_update>

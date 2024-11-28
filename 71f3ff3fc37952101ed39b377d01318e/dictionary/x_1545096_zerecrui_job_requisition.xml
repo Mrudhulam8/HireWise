@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="53443b3fc37952101ed39b377d0131d7" extends="task" label="Job Requisition" max_length="40" name="x_1545096_zerecrui_job_requisition" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Requested For Email" max_length="40" name="u_requested_email" type="string"/>
+        <element default="1" label="Positions" mandatory="true" max_length="40" name="u_positions" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Educational Qualifications" max_length="3000" name="u_educational" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Budget" max_length="40" name="u_budget" type="string"/>
+        <element attributes="encode_utf8=false" label="Requested by" mandatory="true" max_length="32" name="u_requested_by" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Short Description" max_length="40" name="u_short" type="string"/>
+        <element attributes="encode_utf8=false" default="9df86d58c386d2101ed39b377d0131c2" label="Assigned to Group" max_length="32" name="assigned_to_group" read_only="true" reference="sys_user_group" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="25 to 30" label="Age" max_length="40" name="u_age" type="string">
+            <choice>
+                <element inactive_on_update="false" label="40 to 50" sequence="2" value="40 to 50"/>
+                <element inactive_on_update="false" label="60 and above" sequence="4" value="60"/>
+                <element inactive_on_update="false" label="25 to 30" sequence="0" value="25 to 30"/>
+                <element inactive_on_update="false" label="30 to 40" sequence="1" value="30 to 40"/>
+                <element inactive_on_update="false" label="50 to 60" sequence="3" value="50 to 60"/>
+            </choice>
+        </element>
+        <element choice="1" default="full time" label="Job Type" mandatory="true" max_length="40" name="job_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Full Time" sequence="0" value="full time"/>
+                <element inactive_on_update="false" label="Part Time" sequence="1" value="part time"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 2" sequence="0" value="Choice 2"/>
+                <element inactive_on_update="false" label="Intern" sequence="2" value="intern"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 3" sequence="1" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Skills required" max_length="2500" name="u_skills" type="html"/>
+        <element attributes="edge_encryption_enabled=true" label="Job Summary" max_length="2000" name="u_job_summary" type="string"/>
+        <element attributes="encode_utf8=false" default="1d59a5d8c386d2101ed39b377d0131a0" label="Report to" max_length="32" name="u_report_to" read_only="true" reference="sys_user_group" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Requested by Email" max_length="40" name="u_requested_by_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Reason to Reject" max_length="1000" name="reason_to_reject" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Detailed Job Decription" max_length="3000" name="u_job_decription" type="html"/>
+        <element attributes="encode_utf8=false" default="fe2781f5931631003b4bb095e57ffbff" label="Location" mandatory="true" max_length="32" name="u_location" reference="cmn_location" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Required For" max_length="40" name="u_required_for" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Internal Project" sequence="1" value="internal project"/>
+                <element inactive_on_update="false" label="Client" sequence="0" value="client"/>
+            </choice>
+        </element>
+        <element label="When Needed" max_length="40" name="when_needed" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Comments" max_length="4000" name="u_journal_9" type="journal"/>
+        <element default="3" label="Experience" mandatory="true" max_length="40" name="u_experience" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Job Title" mandatory="true" max_length="40" name="u_job" type="string"/>
+        <element attributes="encode_utf8=false" label="Department" max_length="32" name="u_department" reference="cmn_department" type="reference"/>
+        <element attributes="encode_utf8=false" label="Requested For" mandatory="true" max_length="32" name="u_requested_for" reference="sys_user" type="reference"/>
+    </element>
+</database>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Job Details" section_id="42ce773fc3b952101ed39b377d0131c6" sys_domain="global" table="x_1545096_zerecrui_job_requisition" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_job_summary</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-18 10:39:06</sys_created_on>
+            <sys_id>1eceb73fc3b952101ed39b377d01315e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Job Details" display_value="Job Details" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">42ce773fc3b952101ed39b377d0131c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-18 10:39:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_job_decription</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-18 10:39:06</sys_created_on>
+            <sys_id>92ceb73fc3b952101ed39b377d01315f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Job Details" display_value="Job Details" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">42ce773fc3b952101ed39b377d0131c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-18 10:39:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_skills</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-18 10:39:06</sys_created_on>
+            <sys_id>1aceb73fc3b952101ed39b377d01315f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Job Details" display_value="Job Details" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">42ce773fc3b952101ed39b377d0131c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-18 10:39:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_educational</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-18 10:39:06</sys_created_on>
+            <sys_id>9eceb73fc3b952101ed39b377d01315f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Job Details" display_value="Job Details" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">42ce773fc3b952101ed39b377d0131c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-18 10:39:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Job Details</caption>
+            <header>false</header>
+            <name>x_1545096_zerecrui_job_requisition</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-18 10:39:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>42ce773fc3b952101ed39b377d0131c6</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>x_1545096_zerecrui_job_requisition</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
+            <sys_update_name>sys_ui_section_42ce773fc3b952101ed39b377d0131c6</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-18 10:39:44</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</application>
+        <file_path/>
+        <instance_id>04e88f1e1b267510ba5ceb9b2d4bcb07</instance_id>
+        <instance_name>dev216831</instance_name>
+        <name>sys_ui_section_42ce773fc3b952101ed39b377d0131c6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Job Details" section_id="42ce773fc3b952101ed39b377d0131c6" sys_domain="global" table="x_1545096_zerecrui_job_requisition" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>u_job_summary</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-18 10:39:06</sys_created_on><sys_id>1eceb73fc3b952101ed39b377d01315e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Job Details" display_value="Job Details" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">42ce773fc3b952101ed39b377d0131c6</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-18 10:39:06</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_job_decription</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-18 10:39:06</sys_created_on><sys_id>92ceb73fc3b952101ed39b377d01315f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Job Details" display_value="Job Details" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">42ce773fc3b952101ed39b377d0131c6</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-18 10:39:06</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_skills</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-18 10:39:06</sys_created_on><sys_id>1aceb73fc3b952101ed39b377d01315f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Job Details" display_value="Job Details" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">42ce773fc3b952101ed39b377d0131c6</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-18 10:39:06</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_educational</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-18 10:39:06</sys_created_on><sys_id>9eceb73fc3b952101ed39b377d01315f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Job Details" display_value="Job Details" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">42ce773fc3b952101ed39b377d0131c6</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-18 10:39:06</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Job Details</caption><header>false</header><name>x_1545096_zerecrui_job_requisition</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-18 10:39:04</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>42ce773fc3b952101ed39b377d0131c6</sys_id><sys_mod_count>1</sys_mod_count><sys_name>x_1545096_zerecrui_job_requisition</sys_name><sys_overrides/><sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package><sys_policy/><sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope><sys_update_name>sys_ui_section_42ce773fc3b952101ed39b377d0131c6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-18 10:39:44</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1062151270</payload_hash>
+        <record_name>Job Requisition</record_name>
+        <reverted_from/>
+        <source>a979bf8cc34e92101ed39b377d0131af</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-18 10:39:44</sys_created_on>
+        <sys_id>2bee7b3fc3b952101ed39b377d01313b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_recorded_at>1933edb60110000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-19 05:01:07</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>efee7b3f5fb95210869543e0860a483a</update_guid>
+        <update_guid_history>efee7b3f5fb95210869543e0860a483a:1062151270,56ceb73fa9b9521040cb187f9a7b4c61:-223579970</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-18 11:07:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>39e2dbedcfa94454a8b433589a1c5109</sys_id>
+        <sys_metadata>42ce773fc3b952101ed39b377d0131c6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Job Details</sys_name>
+        <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
+        <sys_parent display_value="Job Requisition">53443b3fc37952101ed39b377d0131d7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
+        <sys_scope_delete display_value="">348d703e357349b0aa59bac8cf64b401</sys_scope_delete>
+        <sys_update_name>sys_ui_section_42ce773fc3b952101ed39b377d0131c6</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_42ce773fc3b952101ed39b377d0131c6">2bee7b3fc3b952101ed39b377d01313b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-18 11:07:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

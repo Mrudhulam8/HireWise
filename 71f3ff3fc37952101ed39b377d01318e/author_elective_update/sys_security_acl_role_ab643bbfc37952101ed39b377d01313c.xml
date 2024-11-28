@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-18 09:53:51</sys_created_on>
+        <sys_id>ab643bbfc37952101ed39b377d01313c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1545096_zerecrui_job_requisition.x_1545096_zerecrui.job_requisition_user</sys_name>
+        <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
+        <sys_security_acl display_value="x_1545096_zerecrui_job_requisition">a3643bbfc37952101ed39b377d013139</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ab643bbfc37952101ed39b377d01313c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-18 09:53:51</sys_updated_on>
+        <sys_user_role display_value="x_1545096_zerecrui.job_requisition_user" name="x_1545096_zerecrui.job_requisition_user">1b6477bfc37952101ed39b377d01317f</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</application>
+        <file_path/>
+        <instance_id>04e88f1e1b267510ba5ceb9b2d4bcb07</instance_id>
+        <instance_name>dev216831</instance_name>
+        <name>sys_security_acl_role_ab643bbfc37952101ed39b377d01313c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-18 09:53:51</sys_created_on><sys_id>ab643bbfc37952101ed39b377d01313c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1545096_zerecrui_job_requisition.x_1545096_zerecrui.job_requisition_user</sys_name><sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package><sys_policy/><sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope><sys_security_acl display_value="x_1545096_zerecrui_job_requisition">a3643bbfc37952101ed39b377d013139</sys_security_acl><sys_update_name>sys_security_acl_role_ab643bbfc37952101ed39b377d01313c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-18 09:53:51</sys_updated_on><sys_user_role display_value="x_1545096_zerecrui.job_requisition_user" name="x_1545096_zerecrui.job_requisition_user">1b6477bfc37952101ed39b377d01317f</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-2041598190</payload_hash>
+        <record_name>x_1545096_zerecrui_job_requisition.x_1545096_zerecrui.job_requisition_user</record_name>
+        <reverted_from/>
+        <source>a979bf8cc34e92101ed39b377d0131af</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-18 09:53:51</sys_created_on>
+        <sys_id>eb643bbfc37952101ed39b377d01313f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_recorded_at>1933eb15ee30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-19 05:01:07</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>ef643bbf3a7952104785fea4da612b3e</update_guid>
+        <update_guid_history>ef643bbf3a7952104785fea4da612b3e:-2041598190</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1545096_zerecrui_job_requisition.x_1545096_zerecrui.job_requisition_user">23f8c5e8c3c616101ed39b377d0131b4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-20 05:20:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>299ae807848241acb534402f625f1a10</sys_id>
+        <sys_metadata>ab643bbfc37952101ed39b377d01313c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1545096_zerecrui_job_requisition.x_1545096_zerecrui.job_requisition_user</sys_name>
+        <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
+        <sys_parent display_value="x_1545096_zerecrui_job_requisition">a3643bbfc37952101ed39b377d013139</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
+        <sys_scope_delete display_value="">348d703e357349b0aa59bac8cf64b401</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_ab643bbfc37952101ed39b377d01313c</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_ab643bbfc37952101ed39b377d01313c">eb643bbfc37952101ed39b377d01313f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-20 05:20:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="f1157bbfc37952101ed39b377d0131a8" sys_domain="global" table="x_1545096_zerecrui_job_requisition" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>process_flow.xml</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-26 07:06:23</sys_created_on>
+            <sys_id>10da546ac30e52101ed39b377d0131b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Process Flow">4797dce2c30e52101ed39b377d013188</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-26 07:06:23</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-26 07:06:23</sys_created_on>
+            <sys_id>50da546ac30e52101ed39b377d0131b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-26 07:06:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_requested_for</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-26 07:06:23</sys_created_on>
+            <sys_id>58da546ac30e52101ed39b377d0131b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-26 07:06:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_requested_email</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-26 07:06:23</sys_created_on>
+            <sys_id>50da546ac30e52101ed39b377d0131ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-26 07:06:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_requested_by</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-26 07:06:23</sys_created_on>
+            <sys_id>58da546ac30e52101ed39b377d0131ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-26 07:06:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_requested_by_email</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-26 07:06:23</sys_created_on>
+            <sys_id>50da546ac30e52101ed39b377d0131bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-26 07:06:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_report_to</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-26 07:06:23</sys_created_on>
+            <sys_id>58da546ac30e52101ed39b377d0131bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-26 07:06:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to_group</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-26 07:06:23</sys_created_on>
+            <sys_id>50da546ac30e52101ed39b377d0131bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-26 07:06:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_required_for</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-26 07:06:23</sys_created_on>
+            <sys_id>58da546ac30e52101ed39b377d0131bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-26 07:06:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_job</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-26 07:06:23</sys_created_on>
+            <sys_id>50da546ac30e52101ed39b377d0131bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-26 07:06:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>job_type</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-26 07:06:23</sys_created_on>
+            <sys_id>58da546ac30e52101ed39b377d0131bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-26 07:06:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_short</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-26 07:06:23</sys_created_on>
+            <sys_id>50da546ac30e52101ed39b377d0131be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-26 07:06:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-26 07:06:23</sys_created_on>
+            <sys_id>58da546ac30e52101ed39b377d0131be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-26 07:06:23</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>when_needed</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-26 07:06:23</sys_created_on>
+            <sys_id>50da546ac30e52101ed39b377d0131bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-26 07:06:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_department</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-26 07:06:23</sys_created_on>
+            <sys_id>58da546ac30e52101ed39b377d0131bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-26 07:06:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_location</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-26 07:06:23</sys_created_on>
+            <sys_id>50da546ac30e52101ed39b377d0131c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-26 07:06:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_experience</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-26 07:06:23</sys_created_on>
+            <sys_id>58da546ac30e52101ed39b377d0131c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-26 07:06:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_positions</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-26 07:06:23</sys_created_on>
+            <sys_id>50da546ac30e52101ed39b377d0131c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-26 07:06:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_age</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-26 07:06:23</sys_created_on>
+            <sys_id>58da546ac30e52101ed39b377d0131c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-26 07:06:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-26 07:06:23</sys_created_on>
+            <sys_id>50da546ac30e52101ed39b377d0131c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-26 07:06:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_budget</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-26 07:06:23</sys_created_on>
+            <sys_id>58da546ac30e52101ed39b377d0131c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-26 07:06:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-26 07:06:23</sys_created_on>
+            <sys_id>50da546ac30e52101ed39b377d0131c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-26 07:06:23</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_job_summary</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-26 07:06:23</sys_created_on>
+            <sys_id>58da546ac30e52101ed39b377d0131c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-26 07:06:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_job_decription</element>
+            <position>23</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-26 07:06:23</sys_created_on>
+            <sys_id>50da546ac30e52101ed39b377d0131c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-26 07:06:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_skills</element>
+            <position>24</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-26 07:06:23</sys_created_on>
+            <sys_id>58da546ac30e52101ed39b377d0131c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-26 07:06:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_educational</element>
+            <position>25</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-26 07:06:23</sys_created_on>
+            <sys_id>50da546ac30e52101ed39b377d0131c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-26 07:06:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reason_to_reject</element>
+            <position>26</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-26 07:06:23</sys_created_on>
+            <sys_id>58da546ac30e52101ed39b377d0131c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-26 07:06:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_1545096_zerecrui_job_requisition</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-18 09:56:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f1157bbfc37952101ed39b377d0131a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1545096_zerecrui_job_requisition</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
+            <sys_update_name>sys_ui_section_f1157bbfc37952101ed39b377d0131a8</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-18 09:56:44</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</application>
+        <file_path/>
+        <instance_id>04e88f1e1b267510ba5ceb9b2d4bcb07</instance_id>
+        <instance_name>dev216831</instance_name>
+        <name>sys_ui_section_f1157bbfc37952101ed39b377d0131a8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="f1157bbfc37952101ed39b377d0131a8" sys_domain="global" table="x_1545096_zerecrui_job_requisition" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>process_flow.xml</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-26 07:06:23</sys_created_on><sys_id>10da546ac30e52101ed39b377d0131b8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter display_value="Process Flow">4797dce2c30e52101ed39b377d013188</sys_ui_formatter><sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-26 07:06:23</sys_updated_on><sys_user/><type>formatter</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-26 07:06:23</sys_created_on><sys_id>50da546ac30e52101ed39b377d0131b9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-26 07:06:23</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_requested_for</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-26 07:06:23</sys_created_on><sys_id>58da546ac30e52101ed39b377d0131b9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-26 07:06:23</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_requested_email</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-26 07:06:23</sys_created_on><sys_id>50da546ac30e52101ed39b377d0131ba</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-26 07:06:23</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_requested_by</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-26 07:06:23</sys_created_on><sys_id>58da546ac30e52101ed39b377d0131ba</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-26 07:06:23</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_requested_by_email</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-26 07:06:23</sys_created_on><sys_id>50da546ac30e52101ed39b377d0131bb</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-26 07:06:23</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_report_to</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-26 07:06:23</sys_created_on><sys_id>58da546ac30e52101ed39b377d0131bb</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-26 07:06:23</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>assigned_to_group</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-26 07:06:23</sys_created_on><sys_id>50da546ac30e52101ed39b377d0131bc</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-26 07:06:23</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_required_for</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-26 07:06:23</sys_created_on><sys_id>58da546ac30e52101ed39b377d0131bc</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-26 07:06:23</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_job</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-26 07:06:23</sys_created_on><sys_id>50da546ac30e52101ed39b377d0131bd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-26 07:06:23</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>job_type</element><position>10</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-26 07:06:23</sys_created_on><sys_id>58da546ac30e52101ed39b377d0131bd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-26 07:06:23</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_short</element><position>11</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-26 07:06:23</sys_created_on><sys_id>50da546ac30e52101ed39b377d0131be</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-26 07:06:23</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>12</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-26 07:06:23</sys_created_on><sys_id>58da546ac30e52101ed39b377d0131be</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-26 07:06:23</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>when_needed</element><position>13</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-26 07:06:23</sys_created_on><sys_id>50da546ac30e52101ed39b377d0131bf</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-26 07:06:23</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_department</element><position>14</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-26 07:06:23</sys_created_on><sys_id>58da546ac30e52101ed39b377d0131bf</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-26 07:06:23</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_location</element><position>15</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-26 07:06:23</sys_created_on><sys_id>50da546ac30e52101ed39b377d0131c0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-26 07:06:23</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_experience</element><position>16</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-26 07:06:23</sys_created_on><sys_id>58da546ac30e52101ed39b377d0131c0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-26 07:06:23</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_positions</element><position>17</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-26 07:06:23</sys_created_on><sys_id>50da546ac30e52101ed39b377d0131c1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-26 07:06:23</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_age</element><position>18</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-26 07:06:23</sys_created_on><sys_id>58da546ac30e52101ed39b377d0131c1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-26 07:06:23</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>state</element><position>19</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-26 07:06:23</sys_created_on><sys_id>50da546ac30e52101ed39b377d0131c2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-26 07:06:23</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_budget</element><position>20</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-26 07:06:23</sys_created_on><sys_id>58da546ac30e52101ed39b377d0131c2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-26 07:06:23</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>21</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-26 07:06:23</sys_created_on><sys_id>50da546ac30e52101ed39b377d0131c3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-26 07:06:23</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_job_summary</element><position>22</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-26 07:06:23</sys_created_on><sys_id>58da546ac30e52101ed39b377d0131c3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-26 07:06:23</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_job_decription</element><position>23</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-26 07:06:23</sys_created_on><sys_id>50da546ac30e52101ed39b377d0131c4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-26 07:06:23</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_skills</element><position>24</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-26 07:06:23</sys_created_on><sys_id>58da546ac30e52101ed39b377d0131c4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-26 07:06:23</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_educational</element><position>25</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-26 07:06:23</sys_created_on><sys_id>50da546ac30e52101ed39b377d0131c5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-26 07:06:23</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>reason_to_reject</element><position>26</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-26 07:06:23</sys_created_on><sys_id>58da546ac30e52101ed39b377d0131c5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">f1157bbfc37952101ed39b377d0131a8</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-26 07:06:23</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_1545096_zerecrui_job_requisition</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-18 09:56:44</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f1157bbfc37952101ed39b377d0131a8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1545096_zerecrui_job_requisition</sys_name><sys_overrides/><sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package><sys_policy/><sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope><sys_update_name>sys_ui_section_f1157bbfc37952101ed39b377d0131a8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-18 09:56:44</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-2037629918</payload_hash>
+        <record_name>Job Requisition</record_name>
+        <reverted_from/>
+        <source>bdf37f7fc37952101ed39b377d013120</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-26 07:06:23</sys_created_on>
+        <sys_id>d4da546ac30e52101ed39b377d0131c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193674aec1d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-26 07:06:23</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>5cda546a130e5210a2cf56de378a1ec8</update_guid>
+        <update_guid_history>5cda546a130e5210a2cf56de378a1ec8:-2037629918,6279cb78bb061210938a539260644e0f:-1281694331,f9198378e7061210ad2e6bc19ce2f897:-1086158419,7171a150b686d21062d4850deb0f1e45:1337337480,574069dce046d210cc39e230ebc4cc20:703363319,a958904c780e5210a272c147b913a58f:-1891331394,0fe7580cce0e52108ee4a4eb37395a1e:1647310312,204504445eca52104ee16189dfccfba1:-1891331394,ff10808c418a521006777aa53d6c6047:800910199,f93fff3f60b952103758cd7ef8419ae5:1709483944,92ceb73fddb95210339888ee4bb1c05a:-1930649574,18ed73fb5fb95210debcdd0e41718aea:1080938932,f80dff7b13b952107e3d2ae11edf5a1a:-623246918,80acf77b30b95210676570a759e09c04:-892378231,c51bf7f7b3b952104f7a428a064e6762:-667676383,6428fbf329b95210ae6aeb100f6f4aaa:1892719593,e028fbf385b95210bd559fd4566aba85:688369380</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-26 07:07:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>1d8ad570ad0843fe86cabdcf35cb5e64</sys_id>
+        <sys_metadata>f1157bbfc37952101ed39b377d0131a8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1545096_zerecrui_job_requisition</sys_name>
+        <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
+        <sys_parent display_value="Job Requisition">53443b3fc37952101ed39b377d0131d7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
+        <sys_scope_delete display_value="">348d703e357349b0aa59bac8cf64b401</sys_scope_delete>
+        <sys_update_name>sys_ui_section_f1157bbfc37952101ed39b377d0131a8</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_f1157bbfc37952101ed39b377d0131a8">d4da546ac30e52101ed39b377d0131c9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-26 07:07:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

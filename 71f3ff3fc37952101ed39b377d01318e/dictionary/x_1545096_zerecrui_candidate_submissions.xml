@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="761d30e6530612102f9732a0a0490ec5" extends="task" label="Candidate Submissions" max_length="40" name="x_1545096_zerecrui_candidate_submissions" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Notice period" max_length="40" name="u_notice_period" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Previous Company" max_length="40" name="u_previous" type="string"/>
+        <element attributes="encode_utf8=false" default="9df86d58c386d2101ed39b377d0131c2" label="Report to" max_length="32" name="u_report_to" read_only="true" reference="sys_user_group" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Github Profile Link" max_length="1024" name="u_url_github" type="url"/>
+        <element attributes="edge_encryption_enabled=true" label="Experience in years" max_length="40" name="u_exp_years" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Schooling" max_length="40" name="u_school" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" max_length="40" name="u_requested_for_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="fresher" label="Experience" max_length="40" name="u_experience" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Experienced" sequence="1" value="experienced"/>
+                <element inactive_on_update="false" label="Fresher" sequence="0" value="fresher"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Phone Number" max_length="40" name="u_phone" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Bacholor's degree" max_length="40" name="u_ug" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Interview Date/time" max_length="40" name="u_interview_date_time" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Intermediate/12th/deploma" max_length="40" name="u_inter" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Comments" max_length="4000" name="u_comments" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" label="Post gradution" max_length="40" name="u_post" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Age" max_length="40" name="u_age" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Address" max_length="2000" name="u_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Describe about Your Project" max_length="4000" name="u_project" type="string"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Department" max_length="32" name="u_dept" reference="cmn_department" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Post Graduation" max_length="40" name="u_post_graduation" type="string"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Preferred Location" max_length="32" name="u_location" reference="cmn_location" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="How many days for Notice period" max_length="40" name="u_days" type="integer"/>
+        <element attributes="encode_utf8=false" label="Task Assigned to" max_length="32" name="u_task_assigned_to" reference="sys_user_group" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Job Title" max_length="40" name="u_job" type="string"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Candidate Name " max_length="32" name="u_requested_for" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Certificates" max_length="4000" name="u_certificates" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Feedback from Interview" max_length="40" name="u_feedback" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Approve" sequence="0" value="approve"/>
+                <element inactive_on_update="false" label="Rejected" sequence="1" value="rejected"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="LinkedIn profile url" max_length="1024" name="u_url_linkedin" type="url"/>
+        <element attributes="edge_encryption_enabled=true" hint="YYYY-MM-DD" label="Date of Birth" max_length="40" name="u_dob" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Upload Resume" max_length="40" name="u_resume" type="file_attachment"/>
+    </element>
+</database>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New Section" section_id="e68015bac306d2101ed39b377d013102" sys_domain="global" table="x_1545096_zerecrui_candidate_submissions" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_address</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-27 05:41:31</sys_created_on>
+            <sys_id>47f05dbac306d2101ed39b377d01316f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_candidate_submissions" sys_domain="global" view="Default view">e68015bac306d2101ed39b377d013102</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-27 05:41:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_school</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-27 05:41:31</sys_created_on>
+            <sys_id>4ff05dbac306d2101ed39b377d01316f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_candidate_submissions" sys_domain="global" view="Default view">e68015bac306d2101ed39b377d013102</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-27 05:41:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_inter</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-27 05:41:31</sys_created_on>
+            <sys_id>47f05dbac306d2101ed39b377d013170</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_candidate_submissions" sys_domain="global" view="Default view">e68015bac306d2101ed39b377d013102</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-27 05:41:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_ug</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-27 05:41:31</sys_created_on>
+            <sys_id>4ff05dbac306d2101ed39b377d013170</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_candidate_submissions" sys_domain="global" view="Default view">e68015bac306d2101ed39b377d013102</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-27 05:41:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_post</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-27 05:41:31</sys_created_on>
+            <sys_id>47f05dbac306d2101ed39b377d013171</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_candidate_submissions" sys_domain="global" view="Default view">e68015bac306d2101ed39b377d013102</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-27 05:41:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_post_graduation</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-27 05:41:31</sys_created_on>
+            <sys_id>4ff05dbac306d2101ed39b377d013171</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_candidate_submissions" sys_domain="global" view="Default view">e68015bac306d2101ed39b377d013102</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-27 05:41:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_project</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-27 05:41:31</sys_created_on>
+            <sys_id>47f05dbac306d2101ed39b377d013172</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_candidate_submissions" sys_domain="global" view="Default view">e68015bac306d2101ed39b377d013102</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-27 05:41:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_certificates</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-27 05:41:31</sys_created_on>
+            <sys_id>4ff05dbac306d2101ed39b377d013172</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_candidate_submissions" sys_domain="global" view="Default view">e68015bac306d2101ed39b377d013102</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-27 05:41:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_url_linkedin</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-27 05:41:31</sys_created_on>
+            <sys_id>47f05dbac306d2101ed39b377d013173</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_candidate_submissions" sys_domain="global" view="Default view">e68015bac306d2101ed39b377d013102</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-27 05:41:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_url_github</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-27 05:41:31</sys_created_on>
+            <sys_id>4ff05dbac306d2101ed39b377d013173</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_candidate_submissions" sys_domain="global" view="Default view">e68015bac306d2101ed39b377d013102</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-27 05:41:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_1545096_zerecrui_candidate_submissions</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-11-27 05:39:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e68015bac306d2101ed39b377d013102</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1545096_zerecrui_candidate_submissions</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
+            <sys_update_name>sys_ui_section_e68015bac306d2101ed39b377d013102</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-11-27 05:39:35</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</application>
+        <file_path/>
+        <instance_id>04e88f1e1b267510ba5ceb9b2d4bcb07</instance_id>
+        <instance_name>dev216831</instance_name>
+        <name>sys_ui_section_e68015bac306d2101ed39b377d013102</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New Section" section_id="e68015bac306d2101ed39b377d013102" sys_domain="global" table="x_1545096_zerecrui_candidate_submissions" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>u_address</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-27 05:41:31</sys_created_on><sys_id>47f05dbac306d2101ed39b377d01316f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_candidate_submissions" sys_domain="global" view="Default view">e68015bac306d2101ed39b377d013102</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-27 05:41:31</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_school</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-27 05:41:31</sys_created_on><sys_id>4ff05dbac306d2101ed39b377d01316f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_candidate_submissions" sys_domain="global" view="Default view">e68015bac306d2101ed39b377d013102</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-27 05:41:31</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_inter</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-27 05:41:31</sys_created_on><sys_id>47f05dbac306d2101ed39b377d013170</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_candidate_submissions" sys_domain="global" view="Default view">e68015bac306d2101ed39b377d013102</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-27 05:41:31</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_ug</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-27 05:41:31</sys_created_on><sys_id>4ff05dbac306d2101ed39b377d013170</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_candidate_submissions" sys_domain="global" view="Default view">e68015bac306d2101ed39b377d013102</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-27 05:41:31</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_post</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-27 05:41:31</sys_created_on><sys_id>47f05dbac306d2101ed39b377d013171</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_candidate_submissions" sys_domain="global" view="Default view">e68015bac306d2101ed39b377d013102</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-27 05:41:31</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_post_graduation</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-27 05:41:31</sys_created_on><sys_id>4ff05dbac306d2101ed39b377d013171</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_candidate_submissions" sys_domain="global" view="Default view">e68015bac306d2101ed39b377d013102</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-27 05:41:31</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_project</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-27 05:41:31</sys_created_on><sys_id>47f05dbac306d2101ed39b377d013172</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_candidate_submissions" sys_domain="global" view="Default view">e68015bac306d2101ed39b377d013102</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-27 05:41:31</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_certificates</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-27 05:41:31</sys_created_on><sys_id>4ff05dbac306d2101ed39b377d013172</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_candidate_submissions" sys_domain="global" view="Default view">e68015bac306d2101ed39b377d013102</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-27 05:41:31</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_url_linkedin</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-27 05:41:31</sys_created_on><sys_id>47f05dbac306d2101ed39b377d013173</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_candidate_submissions" sys_domain="global" view="Default view">e68015bac306d2101ed39b377d013102</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-27 05:41:31</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_url_github</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-27 05:41:31</sys_created_on><sys_id>4ff05dbac306d2101ed39b377d013173</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_candidate_submissions" sys_domain="global" view="Default view">e68015bac306d2101ed39b377d013102</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-27 05:41:31</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New Section</caption><header>false</header><name>x_1545096_zerecrui_candidate_submissions</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-27 05:39:35</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e68015bac306d2101ed39b377d013102</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1545096_zerecrui_candidate_submissions</sys_name><sys_overrides/><sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package><sys_policy/><sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope><sys_update_name>sys_ui_section_e68015bac306d2101ed39b377d013102</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-27 05:39:35</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1232065575</payload_hash>
+        <record_name>Candidate Submissions</record_name>
+        <reverted_from/>
+        <source>bdf37f7fc37952101ed39b377d013120</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-27 05:41:31</sys_created_on>
+        <sys_id>47f05dbac306d2101ed39b377d013176</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1936c2396a00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-27 05:41:31</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>0ff05dbaa106d210a122ce02d85de975</update_guid>
+        <update_guid_history>0ff05dbaa106d210a122ce02d85de975:1232065575,7a8015ba1406d2105fc0a1a51cad7d79:85359671</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-27 05:45:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>11a745dca2af49768985e7c520df8524</sys_id>
+        <sys_metadata>e68015bac306d2101ed39b377d013102</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Section</sys_name>
+        <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
+        <sys_parent display_value="Candidate Submissions">761d30e6530612102f9732a0a0490ec5</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
+        <sys_scope_delete display_value="">348d703e357349b0aa59bac8cf64b401</sys_scope_delete>
+        <sys_update_name>sys_ui_section_e68015bac306d2101ed39b377d013102</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_e68015bac306d2101ed39b377d013102">47f05dbac306d2101ed39b377d013176</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-27 05:45:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
