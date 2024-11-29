@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>false</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>u_dob</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Date of birth validation</name>
+        <order/>
+        <script><![CDATA[function onSubmit() {
+    var dobField = g_form.getValue('u_dob');
+    if (!dobField) {
+        return true; // Allow submission for empty fields if not mandatory
+    }
+
+    var dob = new Date(dobField);
+    var today = new Date();
+
+    // Check if the date is valid
+    if (isNaN(dob.getTime())) {
+        g_form.showFieldMsg('u_dob', 'Invalid date. Please enter a valid Date of Birth.', 'error');
+        return; // Stop form submission
+    }
+
+    // Calculate age
+    var age = today.getFullYear() - dob.getFullYear();
+    var monthDiff = today.getMonth() - dob.getMonth();
+    if (monthDiff < 0 || (monthDiff === 0 && today.getDate() < dob.getDate())) {
+        age--;
+    }
+
+    // Check age range
+    if (age < 18 || age > 100) {
+        g_form.showFieldMsg(
+            'dob_field',
+            'Invalid Date of Birth. Age must be between 18 and 100 years.',
+            'error'
+        );
+        return; // Stop form submission
+    }
+
+    return true; // Allow submission if valid
+}
+]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-26 11:24:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>be25d1e6538612102f9732a0a0490e84</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>Date of birth validation</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
+        <sys_update_name>sys_script_client_be25d1e6538612102f9732a0a0490e84</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-26 11:36:28</sys_updated_on>
+        <table>x_1545096_zerecrui_candidate_submissions</table>
+        <type>onSubmit</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</application>
+        <file_path/>
+        <instance_id>04e88f1e1b267510ba5ceb9b2d4bcb07</instance_id>
+        <instance_name>dev216831</instance_name>
+        <name>sys_script_client_be25d1e6538612102f9732a0a0490e84</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;false&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field&gt;u_dob&lt;/field&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;Date of birth validation&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onSubmit() {
+    var dobField = g_form.getValue('u_dob');
+    if (!dobField) {
+        return true; // Allow submission for empty fields if not mandatory
+    }
+
+    var dob = new Date(dobField);
+    var today = new Date();
+
+    // Check if the date is valid
+    if (isNaN(dob.getTime())) {
+        g_form.showFieldMsg('u_dob', 'Invalid date. Please enter a valid Date of Birth.', 'error');
+        return; // Stop form submission
+    }
+
+    // Calculate age
+    var age = today.getFullYear() - dob.getFullYear();
+    var monthDiff = today.getMonth() - dob.getMonth();
+    if (monthDiff &lt; 0 || (monthDiff === 0 &amp;&amp; today.getDate() &lt; dob.getDate())) {
+        age--;
+    }
+
+    // Check age range
+    if (age &lt; 18 || age &gt; 100) {
+        g_form.showFieldMsg(
+            'dob_field',
+            'Invalid Date of Birth. Age must be between 18 and 100 years.',
+            'error'
+        );
+        return; // Stop form submission
+    }
+
+    return true; // Allow submission if valid
+}
+]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-11-26 11:24:42&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;be25d1e6538612102f9732a0a0490e84&lt;/sys_id&gt;&lt;sys_mod_count&gt;9&lt;/sys_mod_count&gt;&lt;sys_name&gt;Date of birth validation&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui"&gt;71f3ff3fc37952101ed39b377d01318e&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="ZeRecruiter"&gt;71f3ff3fc37952101ed39b377d01318e&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_be25d1e6538612102f9732a0a0490e84&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-11-26 11:36:28&lt;/sys_updated_on&gt;&lt;table&gt;x_1545096_zerecrui_candidate_submissions&lt;/table&gt;&lt;type&gt;onSubmit&lt;/type&gt;&lt;ui_type&gt;10&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-777374172</payload_hash>
+        <record_name>Date of birth validation</record_name>
+        <reverted_from/>
+        <source>6c0e89b6c306d2101ed39b377d013199</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-27 05:28:39</sys_created_on>
+        <sys_id>120e8db6c306d2101ed39b377d013127</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1936c17cc520000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-27 05:28:39</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>f0a811aadb8612100dd1348517582efc</update_guid>
+        <update_guid_history>f0a811aadb8612100dd1348517582efc:-777374172,ab8859ea768612107992ce4723305025:-204033903,d96811eae28612106382e037db32b342:1803447918,131855aa12861210667eb79e8fcbe232:1548296065,3dc7d1aafe861210b0162a2f774278c7:1661110536,0b57152a138612103674170e123b5339:-1065984012,4337956a028612100e82984c360d3244:-2117112800,300751e6e9861210cf1adf2f9cfca52b:1362465568,ddc6d1a6d386121068a5108ed6512215:-367938368,d4f511e64486121008d7d3cc84899cb0:495704162</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-29 09:14:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>a8824b426d6d43b281bfe17ee6f92a04</sys_id>
+        <sys_metadata>be25d1e6538612102f9732a0a0490e84</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Date of birth validation</sys_name>
+        <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
+        <sys_parent display_value="Candidate Submissions">761d30e6530612102f9732a0a0490ec5</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
+        <sys_scope_delete display_value="">348d703e357349b0aa59bac8cf64b401</sys_scope_delete>
+        <sys_update_name>sys_script_client_be25d1e6538612102f9732a0a0490e84</sys_update_name>
+        <sys_update_version display_value="sys_script_client_be25d1e6538612102f9732a0a0490e84">120e8db6c306d2101ed39b377d013127</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-29 09:14:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

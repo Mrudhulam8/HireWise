@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Candidate Submission">f6870966534612102f9732a0a0490ea7</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Submitted Requests</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1545096_zerecrui_candidate_submissions</name>
+        <order>200</order>
+        <override_menu_roles>true</override_menu_roles>
+        <query>&amp;sysparm_fixed_query=state=2</query>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_1545096_zerecrui.ZeRecruiter_HR</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-29 10:45:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0669286bc38612101ed39b377d01318d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Submitted Candidate Requests</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
+        <sys_update_name>sys_app_module_0669286bc38612101ed39b377d01318d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-29 10:47:05</sys_updated_on>
+        <timeline_page/>
+        <title>Submitted Candidate Requests</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</application>
+        <file_path/>
+        <instance_id>04e88f1e1b267510ba5ceb9b2d4bcb07</instance_id>
+        <instance_name>dev216831</instance_name>
+        <name>sys_app_module_0669286bc38612101ed39b377d01318d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Candidate Submission">f6870966534612102f9732a0a0490ea7</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Submitted Requests</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1545096_zerecrui_candidate_submissions</name><order>200</order><override_menu_roles>true</override_menu_roles><query>&amp;sysparm_fixed_query=state=2</query><report/><require_confirmation>true</require_confirmation><roles>x_1545096_zerecrui.ZeRecruiter_HR</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-29 10:45:25</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0669286bc38612101ed39b377d01318d</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Submitted Candidate Requests</sys_name><sys_overrides/><sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package><sys_policy/><sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope><sys_update_name>sys_app_module_0669286bc38612101ed39b377d01318d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-29 10:47:05</sys_updated_on><timeline_page/><title>Submitted Candidate Requests</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1667349542</payload_hash>
+        <record_name>Submitted Candidate Requests</record_name>
+        <reverted_from/>
+        <source>5be4178fc3c256101ed39b377d0131d8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-29 10:47:05</sys_created_on>
+        <sys_id>5a1a64abc38612101ed39b377d013168</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19377880c8f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-29 10:47:05</sys_updated_on>
+        <type>Module</type>
+        <update_guid>de1a64ab918612103b0d99c1a0ed5c67</update_guid>
+        <update_guid_history>de1a64ab918612103b0d99c1a0ed5c67:-1667349542,cab9682bff8612100b0100b5bf9fe883:-541017600</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Submitted Candidate Requests">de6ae8abc38612101ed39b377d01312c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-29 10:48:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>741dbe6cc2f546648f8c65bd3710fe10</sys_id>
+        <sys_metadata>0669286bc38612101ed39b377d01318d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Submitted Candidate Requests</sys_name>
+        <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
+        <sys_scope_delete display_value="">348d703e357349b0aa59bac8cf64b401</sys_scope_delete>
+        <sys_update_name>sys_app_module_0669286bc38612101ed39b377d01318d</sys_update_name>
+        <sys_update_version display_value="sys_app_module_0669286bc38612101ed39b377d01318d">5a1a64abc38612101ed39b377d013168</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-29 10:48:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
