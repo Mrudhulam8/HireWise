@@ -2,40 +2,40 @@
     <sp_instance action="INSERT_OR_UPDATE">
         <active>true</active>
         <class_name/>
-        <color>primary</color>
+        <color>danger</color>
         <css/>
         <glyph/>
         <id/>
-        <order>3</order>
+        <order>1</order>
         <roles/>
         <short_description/>
         <size>md</size>
-        <sp_column display_value="2">007ff60ac30212101ed39b377d0131c7</sp_column>
+        <sp_column display_value="2">640ab797c38212101ed39b377d0131bb</sp_column>
         <sp_widget display_value="link-button">abc50de6d702120023c84f80de61036a</sp_widget>
         <sys_class_name>sp_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-11-22 06:29:18</sys_created_on>
-        <sys_id>02fbe3cdc34212101ed39b377d01314a</sys_id>
-        <sys_mod_count>13</sys_mod_count>
+        <sys_created_on>2024-11-29 07:18:04</sys_created_on>
+        <sys_id>2c4a7f97c38212101ed39b377d013168</sys_id>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name/>
         <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
         <sys_policy/>
         <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
-        <sys_update_name>sp_instance_02fbe3cdc34212101ed39b377d01314a</sys_update_name>
+        <sys_update_name>sp_instance_2c4a7f97c38212101ed39b377d013168</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-11-26 07:46:15</sys_updated_on>
+        <sys_updated_on>2024-11-29 07:25:33</sys_updated_on>
         <title/>
         <url/>
         <widget_parameters><![CDATA[{
 	"href": {
-		"value": "zr?id=sc_cat_item&sys_id=ac775741c30212101ed39b377d013144",
-		"displayValue": "zr?id=sc_cat_item&sys_id=ac775741c30212101ed39b377d013144"
+		"value": "zr?id=sc_cat_item&sys_id=4e8abb97c38212101ed39b377d013108",
+		"displayValue": "zr?id=sc_cat_item&sys_id=4e8abb97c38212101ed39b377d013108"
 	},
 	"button_text": {
-		"value": "Create new Job Requisition Request",
-		"displayValue": "Create new Job Requisition Request"
+		"value": "Click here for application form",
+		"displayValue": "Click here for application form"
 	}
 }]]></widget_parameters>
     </sp_instance>
-    <sys_translated_text action="delete_multiple" query="documentkey=02fbe3cdc34212101ed39b377d01314a"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=2c4a7f97c38212101ed39b377d013168"/>
 </record_update>
