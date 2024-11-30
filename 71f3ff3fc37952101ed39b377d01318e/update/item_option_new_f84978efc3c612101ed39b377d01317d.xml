@@ -5,8 +5,8 @@
         <cat_item display_value="Candidate Submission">4e8abb97c38212101ed39b377d013108</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
-        <choice_field/>
-        <choice_table/>
+        <choice_field>u_experience</choice_field>
+        <choice_table>x_1545096_zerecrui_candidate_submissions</choice_table>
         <create_roles/>
         <default_html_value/>
         <default_value/>
@@ -21,7 +21,7 @@
         <dynamic_value_field/>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
-        <field>u_requested_for_email</field>
+        <field>u_experience</field>
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
@@ -33,7 +33,7 @@
         <lookup_label/>
         <lookup_price/>
         <lookup_table/>
-        <lookup_unique>false</lookup_unique>
+        <lookup_unique>true</lookup_unique>
         <lookup_value/>
         <macro/>
         <macroponent/>
@@ -41,13 +41,13 @@
         <map_to_field>true</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>u_requested_for_email</name>
-        <order>3</order>
+        <name>u_experience</name>
+        <order>24</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>Applicant Email</question_text>
+        <question_text>Experience</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -75,19 +75,19 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-11-29 07:21:40</sys_created_on>
-        <sys_id>b1fafbd7c38212101ed39b377d013144</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>Applicant Email</sys_name>
+        <sys_created_on>2024-11-29 11:53:50</sys_created_on>
+        <sys_id>f84978efc3c612101ed39b377d01317d</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Experience</sys_name>
         <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
         <sys_policy/>
         <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
-        <sys_update_name>item_option_new_b1fafbd7c38212101ed39b377d013144</sys_update_name>
+        <sys_update_name>item_option_new_f84978efc3c612101ed39b377d01317d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-11-29 11:38:08</sys_updated_on>
+        <sys_updated_on>2024-11-29 12:01:11</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>6</type>
+        <type>5</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>
@@ -103,22 +103,22 @@
         <visible_summary>true</visible_summary>
         <write_roles/>
     </item_option_new>
-    <sys_translated_text action="delete_multiple" query="documentkey=b1fafbd7c38212101ed39b377d013144"/>
-    <fx_price action="delete_multiple" query="id=b1fafbd7c38212101ed39b377d013144"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=f84978efc3c612101ed39b377d01317d"/>
+    <fx_price action="delete_multiple" query="id=f84978efc3c612101ed39b377d01317d"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="GBP">GBP</currency>
         <field>price_if_checked</field>
-        <id>b1fafbd7c38212101ed39b377d013144</id>
+        <id>f84978efc3c612101ed39b377d01317d</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-11-29 07:21:40</sys_created_on>
-        <sys_id>6d1b771bc38212101ed39b377d0131ca</sys_id>
+        <sys_created_on>2024-11-29 11:53:50</sys_created_on>
+        <sys_id>9c69f423c30a12101ed39b377d01313c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-11-29 07:21:40</sys_updated_on>
+        <sys_updated_on>2024-11-29 11:53:50</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
@@ -126,16 +126,16 @@
         <amount>0</amount>
         <currency display_value="GBP">GBP</currency>
         <field>rec_price_if_checked</field>
-        <id>b1fafbd7c38212101ed39b377d013144</id>
+        <id>f84978efc3c612101ed39b377d01317d</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-11-29 07:21:40</sys_created_on>
-        <sys_id>e11b771bc38212101ed39b377d0131ca</sys_id>
+        <sys_created_on>2024-11-29 11:53:50</sys_created_on>
+        <sys_id>1469f423c30a12101ed39b377d01313c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-11-29 07:21:40</sys_updated_on>
+        <sys_updated_on>2024-11-29 11:53:50</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
