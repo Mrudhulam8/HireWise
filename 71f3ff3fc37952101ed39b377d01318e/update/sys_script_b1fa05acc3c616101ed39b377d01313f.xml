@@ -32,9 +32,9 @@
 	
     if (!gs.hasRole('x_1545096_zerecrui.admin') && !gs.hasRole('x_1545096_zerecrui.Job_ Approver')&& !gs.hasRole('x_1545096_zerecrui.ZeRecruiter_HR')) {
         current.addQuery('u_requested_by', gs.getUserID());
-    }
-// 	if (gs.hasRole('x_1545096_zerecrui.ZeRecruiter_HR')) { 
-//     g_query.addQuery('state', '3'); 
+	}
+// if (gs.hasRole('x_1545096_zerecrui.ZeRecruiter_HR')&& !gs.hasRole('x_1545096_zerecrui.admin')&& !gs.hasRole('x_1545096_zerecrui.Job_ Approver')) { 
+//     current.addQuery('state', '3');
 // }
 
 
@@ -45,7 +45,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>b1fa05acc3c616101ed39b377d01313f</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_name>Restrict user from viewing all module</sys_name>
         <sys_overrides/>
         <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
@@ -53,7 +53,7 @@
         <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
         <sys_update_name>sys_script_b1fa05acc3c616101ed39b377d01313f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-11-26 05:53:10</sys_updated_on>
+        <sys_updated_on>2024-11-30 10:07:19</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[function($scope) {
+    // Function to handle form submission
+    $scope.submitForm = function() {
+        // Check if all required fields are filled
+        if ($scope.data.user_id && $scope.data.email && $scope.data.phone &&  $scope.data.password) {
+            // Call the server-side script to insert the record into your custom table
+            $scope.server.get({
+                user_id: $scope.data.user_id,
+							  first_name: $scope.data.first_name,
+                last_name: $scope.data.last_name, 
+                email: $scope.data.email,
+                phone: $scope.data.phone,
+               password: $scope.data.password
+             //   resume: $scope.data.resume // Handle resume upload
+            }).then(function(response) {
+                if (response.success) {
+                    $scope.data.successMessage = "Thank you! Your application has been submitted.";
+                    $scope.data.errorMessage = null;
+                } else {
+                    $scope.data.errorMessage = " Thank you! Your Registeration has been submitted. ";
+                }
+            });
+        } else {
+            // If any required field is missing, show error message
+            $scope.data.errorMessage = "Please fill all required fields.";
+        }
+    };
+}
+]]></client_script>
+        <controller_as>c</controller_as>
+        <css>/* Center the form on the page */
+.form-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Add some padding and a clean look to the form */
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Style the form inputs */
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+textarea,
+
+
+/* Style labels to make them more readable */
+label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    font-size: 14px;
+}
+
+/* Style the submit button */
+button[type="button"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+button[type="button"]:hover {
+    background-color: #45a049;
+}
+
+/* Success and error message styling */
+.alert {
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.alert-success {
+    background-color: #d4edda;
+    color: #155724;
+    border: 
+</css>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>false</has_preview>
+        <id>candidate_form</id>
+        <internal>false</internal>
+        <link><![CDATA[function link(scope, element, attrs, controller) {
+  
+}]]></link>
+        <name>Candidate form</name>
+        <option_schema/>
+        <public>true</public>
+        <roles/>
+        <script><![CDATA[(function() {
+    try {
+        // Initialize a new record in the x_1545096_zerecrui_candidate_submissions table
+        var gr = new GlideRecord('sys_user');
+        gr.initialize();
+
+         gr.user_name = input.user_id;           // Form 'user_id' maps to 'user_name'
+        gr.first_name = input.first_name;      // Map first name
+        gr.last_name = input.last_name;        // Map last name
+        gr.email = input.email;                // Map email
+       // gr.user_password = input.password;          // Ensure secure password storage
+        gr.mobile_phone = input.phone; 
+       gr.roles = "snc_internal";
+			gr.active = true; 
+       // gr.setPassword(input.password);
+       
+			  var sys_id = gr.insert();
+        gs.info('Record created with sys_id: ' + sys_id);  // Check sys_id value
+
+       // Set the password after insertion
+       if (sys_id) {
+        gr.setPassword(input.password);
+         gr.update();  // Don't forget to update the record after setting the password
+           }
+        // Ensure sys_id is created
+        if (!sys_id) {
+            throw new Error("Record not created successfully, sys_id is missing.");
+        }
+
+        return { success: true };
+        // Handle file upload for resume if present
+       // if (input.resume) {
+         //   var fileGr = new GlideSysAttachment();
+           // var attachment = fileGr.write('x_1545096_zerecrui_candidate_submissions', sys_id, input.resume);
+           // gr.u_resume = attachment; // Link the uploaded resume to the candidate record (adjust the field as necessary)
+       // }
+        
+        // Insert the record into the custom table
+        //gr.update();
+
+       
+    } catch (e) {
+        gs.error("Error creating candidate submission record: " + e.message);
+        return { success: false, error: e.message };
+    }
+})();
+]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-30 16:15:20</sys_created_on>
+        <sys_id>33aebe3fc38692101ed39b377d0131c2</sys_id>
+        <sys_mod_count>20</sys_mod_count>
+        <sys_name>Candidate form</sys_name>
+        <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
+        <sys_update_name>sp_widget_33aebe3fc38692101ed39b377d0131c2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-01 09:38:32</sys_updated_on>
+        <template><![CDATA[<div>
+    <h2>Candidate Submission Form</h2>
+    <p>Please fill out the form below to apply.</p>
+    <div ng-show="data.successMessage" class="alert alert-success">
+        {{ data.successMessage }}
+    </div>
+    <div ng-show="data.errorMessage" class="alert alert-danger">
+        {{ data.errorMessage }}
+    </div>
+    <form>
+        <label>User ID:</label>
+        <input type="text" ng-model="data.user_id" required />
+       <label>First Name:</label>
+        <input type="text" ng-model="data.first_name" required />
+        <label>Last Name:</label>
+        <input type="text" ng-model="data.last_name" required />
+        <label>Email:</label>
+        <input type="email" ng-model="data.email" required>
+        <label>Phone:</label>
+        <input type="tel" ng-model="data.phone" required>
+       <label>Password:</label>
+        <input type="password" ng-model="data.password" required />
+        <!--<label>Resume:</label>
+        <input type="file" ng-model="data.resume"> -->
+        <button type="button" ng-click="submitForm()">Submit</button>
+    </form>
+</div>
+]]></template>
+    </sp_widget>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>33aebe3fc38692101ed39b377d0131c2</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-30 16:15:19</sys_created_on>
+        <sys_id>58defe3fc38692101ed39b377d0131f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-30 16:15:19</sys_updated_on>
+        <table>sp_widget</table>
+        <use_es_latest>true</use_es_latest>
+    </sys_es_latest_script>
+</record_update>

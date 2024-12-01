@@ -6,8 +6,8 @@
         <bootstrap_alt>false</bootstrap_alt>
         <class_name/>
         <container_class_name/>
-        <name>ZeRecruiter Home - Container 4</name>
-        <order>4</order>
+        <name>ZeRecruiter Home - Container 7</name>
+        <order>7</order>
         <semantic_tag/>
         <sp_page display_value="zerecruiter_home">2e6e1bc9c30212101ed39b377d013114</sp_page>
         <subheader>false</subheader>
@@ -15,14 +15,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-11-22 05:55:21</sys_created_on>
         <sys_id>fc346bc1c34212101ed39b377d0131e5</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>ZeRecruiter Home - Container 4</sys_name>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>ZeRecruiter Home - Container 7</sys_name>
         <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
         <sys_policy/>
         <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
         <sys_update_name>sp_container_fc346bc1c34212101ed39b377d0131e5</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-11-29 10:52:55</sys_updated_on>
+        <sys_updated_on>2024-11-30 11:15:52</sys_updated_on>
         <title/>
         <width>container</width>
     </sp_container>

@@ -6,7 +6,7 @@
         <action_insert>false</action_insert>
         <action_query>true</action_query>
         <action_update>false</action_update>
-        <active>false</active>
+        <active>true</active>
         <add_message>false</add_message>
         <advanced>true</advanced>
         <change_fields>false</change_fields>
@@ -31,8 +31,8 @@
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
 
 	// Add your code here
-	if (gs.hasRole('x_1545096_zerecrui.ZeRecruiter_HR')&& !gs.hasRole('x_1545096_zerecrui.admin')) { 
-    current.addQuery('state', '3');
+	if (gs.hasRole('x_1545096_zerecrui.ZeRecruiter_HR')) { 
+    current.addEncodedQuery('state','3');
 }
 
 })(current, previous);]]></script>
@@ -42,7 +42,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>8b85006ac38a52101ed39b377d01319a</sys_id>
-        <sys_mod_count>11</sys_mod_count>
+        <sys_mod_count>26</sys_mod_count>
         <sys_name>Restrict HR from all module</sys_name>
         <sys_overrides/>
         <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
@@ -50,7 +50,7 @@
         <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
         <sys_update_name>sys_script_8b85006ac38a52101ed39b377d01319a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-11-29 12:31:06</sys_updated_on>
+        <sys_updated_on>2024-11-30 12:57:16</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
