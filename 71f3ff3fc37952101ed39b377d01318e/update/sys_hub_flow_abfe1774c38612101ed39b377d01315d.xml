@@ -2,7 +2,7 @@
     <sys_hub_flow action="INSERT_OR_UPDATE">
         <access>public</access>
         <acls/>
-        <active>true</active>
+        <active>false</active>
         <annotation/>
         <attributes>browserActivatedIn=chrome,integrationActivatedIn=standalone,labelCacheCleanUpExecuted=true,timeFromCreateToActivate=1277723000,viewActivatedIn=naturalLanguage</attributes>
         <authored_on_release_version>26000</authored_on_release_version>
@@ -36,7 +36,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>abfe1774c38612101ed39b377d01315d</sys_id>
-        <sys_mod_count>24</sys_mod_count>
+        <sys_mod_count>25</sys_mod_count>
         <sys_name>Job Requisition</sys_name>
         <sys_overrides/>
         <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
@@ -44,7 +44,7 @@
         <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
         <sys_update_name>sys_hub_flow_abfe1774c38612101ed39b377d01315d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-12-06 05:49:32</sys_updated_on>
+        <sys_updated_on>2024-12-11 06:33:45</sys_updated_on>
         <type>flow</type>
         <version>2</version>
     </sys_hub_flow>
@@ -77,16 +77,16 @@
         <table>x_1545096_zerecrui_job_requisition</table>
     </sys_flow_record_trigger>
     <sys_trigger_runner_mapping action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <data>{"run_flow_in":"background","run_when_user_list":[],"run_when_setting":"both","run_when_user_setting":"any","run_on_extended":"false"}</data>
         <identifier>abfe1774c38612101ed39b377d01315d</identifier>
         <runner>FDTriggerRunner</runner>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-12-06 05:49:32</sys_created_on>
         <sys_id>802963a1c39a52101ed39b377d0131da</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-12-06 05:49:32</sys_updated_on>
+        <sys_updated_on>2024-12-11 06:33:46</sys_updated_on>
         <trigger display_value="">f24a6774c3c612101ed39b377d013127</trigger>
     </sys_trigger_runner_mapping>
     <sys_trigger_runner_mapping action="delete_multiple" query="identifier=abfe1774c38612101ed39b377d01315d^sys_idNOT IN802963a1c39a52101ed39b377d0131da"/>
