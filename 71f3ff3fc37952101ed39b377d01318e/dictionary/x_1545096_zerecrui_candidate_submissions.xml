@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element audit="true" db_object_id="761d30e6530612102f9732a0a0490ec5" extends="task" label="Candidate Submissions" max_length="40" name="x_1545096_zerecrui_candidate_submissions" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Notice period" max_length="40" name="u_notice_period" type="boolean"/>
+        <element attributes="encode_utf8=false" choice="3" dependent="u_job" dependent_on_field="u_job" label="Indent number" max_length="32" name="u_indent" reference="x_1545096_zerecrui_job_requisition" reference_qual="javascript: 'u_job=' + current.u_job;" type="reference" use_dependent_field="true" use_reference_qualifier="advanced">
+            <choice/>
+        </element>
         <element attributes="edge_encryption_enabled=true" label="Previous Company" max_length="40" name="u_previous" type="string"/>
         <element attributes="encode_utf8=false" default="9df86d58c386d2101ed39b377d0131c2" label="Report to" max_length="32" name="u_report_to" read_only="true" reference="sys_user_group" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Github Profile Link" max_length="1024" name="u_url_github" type="url"/>
@@ -27,7 +30,20 @@
         <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Preferred Location" max_length="32" name="u_location" reference="cmn_location" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="How many days for Notice period" max_length="40" name="u_days" type="integer"/>
         <element attributes="encode_utf8=false" label="Task Assigned to" max_length="32" name="u_task_assigned_to" reference="sys_user_group" type="reference"/>
-        <element attributes="edge_encryption_enabled=true" label="Job Title" max_length="40" name="u_job" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" choice_field="u_job" choice_table="x_1545096_zerecrui_job_requisition" label="Job Title" mandatory="true" max_length="40" name="u_job" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Senior Developer" sequence="1" value="Senior Developer"/>
+                <element inactive_on_update="false" label="System Administrator" sequence="3" value="System Administrator"/>
+                <element inactive_on_update="false" label="HR" sequence="5" value="HR"/>
+                <element inactive_on_update="false" label="Marketing" sequence="7" value="Marketing"/>
+                <element inactive_on_update="false" label="Trainee Engineer" sequence="9" value="Trainee Engineer"/>
+                <element inactive_on_update="false" label="Solution Consultant" sequence="2" value="Solution Consultant"/>
+                <element inactive_on_update="false" label="BA" sequence="4" value="BA"/>
+                <element inactive_on_update="false" label="Junior Developer" sequence="6" value="Junior Developer"/>
+                <element inactive_on_update="false" label="Project Manager" sequence="8" value="Project Manager"/>
+                <element inactive_on_update="false" label="Sales Executive" sequence="0" value="Sales Executive"/>
+            </choice>
+        </element>
         <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Candidate Name " max_length="32" name="u_requested_for" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Certificates" max_length="4000" name="u_certificates" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Feedback from Interview" max_length="40" name="u_feedback" type="string">

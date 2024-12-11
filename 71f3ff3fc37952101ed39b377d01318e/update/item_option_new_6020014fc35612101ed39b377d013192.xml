@@ -21,7 +21,7 @@
         <dynamic_value_field/>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
-        <field>u_requested_for</field>
+        <field>number</field>
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
@@ -37,17 +37,17 @@
         <lookup_value/>
         <macro/>
         <macroponent/>
-        <mandatory>true</mandatory>
+        <mandatory>false</mandatory>
         <map_to_field>true</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>u_requested_for</name>
-        <order>4</order>
+        <name>number</name>
+        <order>1</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>Requested For?</question_text>
+        <question_text>Indent Number</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -75,19 +75,19 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-11-22 05:24:40</sys_created_on>
-        <sys_id>2e4c5389c30212101ed39b377d013122</sys_id>
-        <sys_mod_count>7</sys_mod_count>
-        <sys_name>Requested For?</sys_name>
+        <sys_created_on>2024-12-10 09:22:40</sys_created_on>
+        <sys_id>6020014fc35612101ed39b377d013192</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Indent Number</sys_name>
         <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
         <sys_policy/>
         <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
-        <sys_update_name>item_option_new_2e4c5389c30212101ed39b377d013122</sys_update_name>
+        <sys_update_name>item_option_new_6020014fc35612101ed39b377d013192</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-11-25 09:37:20</sys_updated_on>
+        <sys_updated_on>2024-12-10 10:05:01</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>8</type>
+        <type>6</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>
@@ -95,7 +95,7 @@
         <validate_regex/>
         <variable_name/>
         <variable_set/>
-        <variable_width>25</variable_width>
+        <variable_width/>
         <visibility>1</visibility>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
@@ -103,22 +103,22 @@
         <visible_summary>true</visible_summary>
         <write_roles/>
     </item_option_new>
-    <sys_translated_text action="delete_multiple" query="documentkey=2e4c5389c30212101ed39b377d013122"/>
-    <fx_price action="delete_multiple" query="id=2e4c5389c30212101ed39b377d013122"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=6020014fc35612101ed39b377d013192"/>
+    <fx_price action="delete_multiple" query="id=6020014fc35612101ed39b377d013192"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="GBP">GBP</currency>
         <field>price_if_checked</field>
-        <id>2e4c5389c30212101ed39b377d013122</id>
+        <id>6020014fc35612101ed39b377d013192</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-11-22 05:24:40</sys_created_on>
-        <sys_id>d72d1fc9c30212101ed39b377d0131d1</sys_id>
+        <sys_created_on>2024-12-10 09:22:41</sys_created_on>
+        <sys_id>1540c50fc35612101ed39b377d01312d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-11-22 05:24:40</sys_updated_on>
+        <sys_updated_on>2024-12-10 09:22:41</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
@@ -126,16 +126,16 @@
         <amount>0</amount>
         <currency display_value="GBP">GBP</currency>
         <field>rec_price_if_checked</field>
-        <id>2e4c5389c30212101ed39b377d013122</id>
+        <id>6020014fc35612101ed39b377d013192</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-11-22 05:24:40</sys_created_on>
-        <sys_id>5b2d1fc9c30212101ed39b377d0131d0</sys_id>
+        <sys_created_on>2024-12-10 09:22:41</sys_created_on>
+        <sys_id>d940c50fc35612101ed39b377d01312b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-11-22 05:24:40</sys_updated_on>
+        <sys_updated_on>2024-12-10 09:22:41</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>

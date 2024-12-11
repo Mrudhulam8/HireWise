@@ -5,8 +5,8 @@
         <cat_item display_value="Job Requisition">ac775741c30212101ed39b377d013144</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
-        <choice_field>u_required_for</choice_field>
-        <choice_table>x_1545096_zerecrui_job_requisition</choice_table>
+        <choice_field/>
+        <choice_table/>
         <create_roles/>
         <default_html_value/>
         <default_value/>
@@ -21,33 +21,33 @@
         <dynamic_value_field/>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
-        <field>u_required_for</field>
+        <field/>
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
         <hidden>false</hidden>
-        <include_none>true</include_none>
+        <include_none>false</include_none>
         <instructions/>
         <layout>normal</layout>
         <list_table/>
         <lookup_label/>
         <lookup_price/>
-        <lookup_table>x_1545096_zerecrui_job_requisition</lookup_table>
-        <lookup_unique>true</lookup_unique>
-        <lookup_value>u_required_for</lookup_value>
+        <lookup_table/>
+        <lookup_unique>false</lookup_unique>
+        <lookup_value/>
         <macro/>
         <macroponent/>
         <mandatory>false</mandatory>
-        <map_to_field>true</map_to_field>
+        <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>u_required_for</name>
-        <order>20</order>
+        <name>con4</name>
+        <order>22</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>Required for ?</question_text>
+        <question_text/>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -75,23 +75,23 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-11-25 09:10:26</sys_created_on>
-        <sys_id>7c8def86c30612101ed39b377d013132</sys_id>
-        <sys_mod_count>5</sys_mod_count>
-        <sys_name>Required for ?</sys_name>
+        <sys_created_on>2024-12-10 09:47:37</sys_created_on>
+        <sys_id>f0e58907c39612101ed39b377d0131bf</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>con4</sys_name>
         <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
         <sys_policy/>
         <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
-        <sys_update_name>item_option_new_7c8def86c30612101ed39b377d013132</sys_update_name>
+        <sys_update_name>item_option_new_f0e58907c39612101ed39b377d0131bf</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-11-25 10:03:42</sys_updated_on>
+        <sys_updated_on>2024-12-10 09:48:34</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>5</type>
+        <type>19</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>
-        <use_reference_qualifier>advanced</use_reference_qualifier>
+        <use_reference_qualifier>simple</use_reference_qualifier>
         <validate_regex/>
         <variable_name/>
         <variable_set/>
@@ -103,22 +103,22 @@
         <visible_summary>true</visible_summary>
         <write_roles/>
     </item_option_new>
-    <sys_translated_text action="delete_multiple" query="documentkey=7c8def86c30612101ed39b377d013132"/>
-    <fx_price action="delete_multiple" query="id=7c8def86c30612101ed39b377d013132"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=f0e58907c39612101ed39b377d0131bf"/>
+    <fx_price action="delete_multiple" query="id=f0e58907c39612101ed39b377d0131bf"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="GBP">GBP</currency>
         <field>price_if_checked</field>
-        <id>7c8def86c30612101ed39b377d013132</id>
+        <id>f0e58907c39612101ed39b377d0131bf</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-11-25 09:10:27</sys_created_on>
-        <sys_id>bb9debc6c30612101ed39b377d0131e9</sys_id>
+        <sys_created_on>2024-12-10 09:47:37</sys_created_on>
+        <sys_id>e2f5c947c39612101ed39b377d013185</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-11-25 09:10:27</sys_updated_on>
+        <sys_updated_on>2024-12-10 09:47:37</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
@@ -126,16 +126,16 @@
         <amount>0</amount>
         <currency display_value="GBP">GBP</currency>
         <field>rec_price_if_checked</field>
-        <id>7c8def86c30612101ed39b377d013132</id>
+        <id>f0e58907c39612101ed39b377d0131bf</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-11-25 09:10:27</sys_created_on>
-        <sys_id>339debc6c30612101ed39b377d0131e9</sys_id>
+        <sys_created_on>2024-12-10 09:47:37</sys_created_on>
+        <sys_id>a2f5c947c39612101ed39b377d013184</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-11-25 09:10:27</sys_updated_on>
+        <sys_updated_on>2024-12-10 09:47:37</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
