@@ -6,29 +6,23 @@
   var c = this;
 };]]></client_script>
         <controller_as>c</controller_as>
-        <css>.welcome-banner {&#13;
-  background-color:#d7cbea;&#13;
-  padding: 20px;&#13;
-  text-align: center;&#13;
-  border-radius: 8px;&#13;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);&#13;
-}&#13;
-&#13;
-.welcome-banner h1 {&#13;
-  color: #2c3e50;&#13;
-  font-size: 2.5em;&#13;
-  margin: 0;&#13;
-}&#13;
-&#13;
-.welcome-banner p {&#13;
-  color: #7f8c8d;&#13;
-  font-size: 1.2em;&#13;
-  margin-top: 10px;&#13;
-}&#13;
-.gap{&#13;
-  padding : 15px 0px;&#13;
-  background-color: #fff;&#13;
-}&#13;
+        <css>.welcome-banner {
+  padding: 20px;
+  text-align: center;
+}
+
+.welcome-banner h1 {
+  color: #2c3e50;
+  font-size: 2.5em;
+  margin: 0;
+}
+
+.welcome-banner p {
+  color: #7f8c8d;
+  font-size: 1.2em;
+  margin-top: 10px;
+}
+
 </css>
         <data_table>sp_instance</data_table>
         <demo_data/>
@@ -55,14 +49,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-11-29 06:25:58</sys_created_on>
         <sys_id>e95e2f57c34212101ed39b377d0131e4</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_name>Copy of Welcome widget</sys_name>
         <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
         <sys_policy/>
         <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
         <sys_update_name>sp_widget_e95e2f57c34212101ed39b377d0131e4</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-11-29 11:15:41</sys_updated_on>
+        <sys_updated_on>2025-04-09 07:39:50</sys_updated_on>
         <template><![CDATA[<div class="welcome-banner">
   <h1>Welcome to ZeRecruiter</h1>
   <p>Simplify your recruitment process with our ZeRecruiter Hiring management system.</p>

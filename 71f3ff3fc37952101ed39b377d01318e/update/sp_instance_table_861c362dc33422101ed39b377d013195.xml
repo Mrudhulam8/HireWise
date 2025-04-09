@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table">
+    <sp_instance_table action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <display_field/>
+        <field_list>number,u_requested_by,u_job,u_department,state</field_list>
+        <filter/>
+        <glyph/>
+        <id/>
+        <maximum_entries>7</maximum_entries>
+        <order>1</order>
+        <order_by>number</order_by>
+        <order_direction>desc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">e20c3ee9c33422101ed39b377d013106</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Copy of Copy of Data Table from Instance">65bd2df3c30292101ed39b377d01319a</sp_widget>
+        <sys_class_name>sp_instance_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-09 09:09:45</sys_created_on>
+        <sys_id>861c362dc33422101ed39b377d013195</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>All Job Requisition Requests</sys_name>
+        <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
+        <sys_update_name>sp_instance_table_861c362dc33422101ed39b377d013195</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-09 09:11:46</sys_updated_on>
+        <table>x_1545096_zerecrui_job_requisition</table>
+        <title>All Job Requisition Requests</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_table>
+    <sys_translated_text action="delete_multiple" query="documentkey=861c362dc33422101ed39b377d013195"/>
+</record_update>
