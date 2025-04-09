@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>2</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">0cd03dff47bb9610f84d57f1d16d43ff</sp_column>
+        <sp_widget display_value="Quick Links on Topic Page">0fe509c7c32030108ae53e5f2b40ddbf</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-25 10:34:49</sys_created_on>
+        <sys_id>703339b347fb9610f84d57f1d16d4358</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Quick Links</sys_name>
+        <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
+        <sys_update_name>sp_instance_703339b347fb9610f84d57f1d16d4358</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-25 10:36:18</sys_updated_on>
+        <title>Quick Links</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"title": {
+		"value": "Quick Links",
+		"displayValue": "Quick Links"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=703339b347fb9610f84d57f1d16d4358"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</application>
+        <file_path/>
+        <instance_id>1140e4a9fb2b52dc8515f4344eefdcc6</instance_id>
+        <instance_name>dev295183</instance_name>
+        <name>sp_instance_703339b347fb9610f84d57f1d16d4358</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;2&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="2"&gt;0cd03dff47bb9610f84d57f1d16d43ff&lt;/sp_column&gt;&lt;sp_widget display_value="Quick Links on Topic Page"&gt;0fe509c7c32030108ae53e5f2b40ddbf&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-02-25 10:34:49&lt;/sys_created_on&gt;&lt;sys_id&gt;703339b347fb9610f84d57f1d16d4358&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Quick Links&lt;/sys_name&gt;&lt;sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui"&gt;71f3ff3fc37952101ed39b377d01318e&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="ZeRecruiter"&gt;71f3ff3fc37952101ed39b377d01318e&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_703339b347fb9610f84d57f1d16d4358&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-02-25 10:36:18&lt;/sys_updated_on&gt;&lt;title&gt;Quick Links&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"title": {
+		"value": "Quick Links",
+		"displayValue": "Quick Links"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=703339b347fb9610f84d57f1d16d4358"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1295611366</payload_hash>
+        <record_name>Quick Links</record_name>
+        <reverted_from/>
+        <source>7c459f3f4763d210f84d57f1d16d435c</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-25 10:36:18</sys_created_on>
+        <sys_id>ea83b5f347fb9610f84d57f1d16d437c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1953cadce730000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-25 10:36:18</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>6283b5f3eefb961058fc4c7ccc64717c</update_guid>
+        <update_guid_history>6283b5f3eefb961058fc4c7ccc64717c:1295611366,c243f93337fb961038b58a4a7d592766:-1897790811,783339b3b8fb961066f3e2aa1b513559:-122953037</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">fc93b1b347fb9610f84d57f1d16d43a6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-25 10:36:28</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>43c48620c89c47409f1f61d26339c040</sys_id>
+        <sys_metadata>703339b347fb9610f84d57f1d16d4358</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Quick Links</sys_name>
+        <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
+        <sys_scope_delete display_value="">348d703e357349b0aa59bac8cf64b401</sys_scope_delete>
+        <sys_update_name>sp_instance_703339b347fb9610f84d57f1d16d4358</sys_update_name>
+        <sys_update_version display_value="sp_instance_703339b347fb9610f84d57f1d16d4358">ea83b5f347fb9610f84d57f1d16d437c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-25 10:36:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>info</color>
+        <css/>
+        <glyph>user</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description>Click Here to go to HR Portal</short_description>
+        <size>md</size>
+        <sp_column display_value="2">33194af3477f9610f84d57f1d16d4303</sp_column>
+        <sp_page display_value="hr_portal">3b47b533c34292101ed39b377d0131f2</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-25 10:51:56</sys_created_on>
+        <sys_id>eb17753b47fb9610f84d57f1d16d430f</sys_id>
+        <sys_mod_count>38</sys_mod_count>
+        <sys_name> HR Portal</sys_name>
+        <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
+        <sys_update_name>sp_instance_link_eb17753b47fb9610f84d57f1d16d430f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-25 12:12:33</sys_updated_on>
+        <title> HR Portal</title>
+        <type>page</type>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Circle Icon",
+		"displayValue": "Circle Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="DELETE" query="documentkey=eb17753b47fb9610f84d57f1d16d430f"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</application>
+        <file_path/>
+        <instance_id>1140e4a9fb2b52dc8515f4344eefdcc6</instance_id>
+        <instance_name>dev295183</instance_name>
+        <name>sp_instance_link_eb17753b47fb9610f84d57f1d16d430f</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;info&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;user&lt;/glyph&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category/&gt;&lt;kb_topic/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item/&gt;&lt;sc_category/&gt;&lt;short_description&gt;Click Here to go to HR Portal&lt;/short_description&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="2"&gt;33194af3477f9610f84d57f1d16d4303&lt;/sp_column&gt;&lt;sp_page display_value="hr_portal"&gt;3b47b533c34292101ed39b377d0131f2&lt;/sp_page&gt;&lt;sp_widget display_value="Icon Link"&gt;3caa67afcb13020000f8d856634c9c2e&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-02-25 10:51:56&lt;/sys_created_on&gt;&lt;sys_id&gt;eb17753b47fb9610f84d57f1d16d430f&lt;/sys_id&gt;&lt;sys_mod_count&gt;38&lt;/sys_mod_count&gt;&lt;sys_name&gt; HR Portal&lt;/sys_name&gt;&lt;sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui"&gt;71f3ff3fc37952101ed39b377d01318e&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="ZeRecruiter"&gt;71f3ff3fc37952101ed39b377d01318e&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_eb17753b47fb9610f84d57f1d16d430f&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-02-25 12:12:33&lt;/sys_updated_on&gt;&lt;title&gt; HR Portal&lt;/title&gt;&lt;type&gt;page&lt;/type&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"link_template": {
+		"value": "Circle Icon",
+		"displayValue": "Circle Icon"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=eb17753b47fb9610f84d57f1d16d430f"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-980450013</payload_hash>
+        <record_name> HR Portal</record_name>
+        <reverted_from/>
+        <source>7c459f3f4763d210f84d57f1d16d435c</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-25 12:12:33</sys_created_on>
+        <sys_id>5c994637477f9610f84d57f1d16d43db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1953d05ec820000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-25 12:12:33</sys_updated_on>
+        <type>Instance with Link</type>
+        <update_guid>d0994637b97f96104eb3e3ee3cc1dddb</update_guid>
+        <update_guid_history>d0994637b97f96104eb3e3ee3cc1dddb:-980450013,61490ef3357f96102301052ab1836ba3:-1491225886,7b294af38a7f9610e177da4339995aa7:114125061,bb194af3e77f96107c538d2f4769fe1c:1802361955,a3190af3d47f96100a2dd74593f61aa1:-244293461,5f68c6b3737f96108805dbf47d60e818:1802361955,626886b3597f9610e452652da208fa65:-14101153,58d6caff3e3f96109434b1ae43705b6c:462556704,a7c646ffcf3f96104c467a49f8f5b62e:-679540008,c98682ff1a3f96109462e740c2d6caed:-202882151,7a7642ff243f96109f5d38651fa7c5dd:939214561,55460ebff43f9610edd9fead094e5519:1415872418,b3264abf883f9610a4c801d924e8a971:939214561,75c0ceb72f3f961020389e0ffc9c5a7e:1415872418,6ab04eb7343f96100952f36b0cf6e991:1892530275,3f908ab7483f9610f7d436b58e350612:1415872418,7680c6b7283f9610b00d5718a09125b9:1892530275,f7fc3d33753f961087ac307697de5df8:1415872418,6fac35337a3f96107e417c061a6abe59:939214561,fa3c39ff59fb9610d09e7ec3740267c1:462556704,0d1c75ff27fb9610e4d1fcec4c6c53aa:939214561,a1fbb1ff4ffb961056a9f7f2b24dfe03:-679540008,197bf5bf64fb9610b5d4606deff8e60f:-14101153,d57bb5bfa2fb96102dab83fa82d7a0eb:-202882151,197bb5bfa8fb96100b8ff488c8f29138:-1463753324,c17bb5bf6efb9610c0b3f85bc1ee1484:273775706,0d7bb5bf89fb96106e8701ebd7d3f16f:-1156197865,c17bb5bfcbfb9610e93eca2b10fbd860:-1463753324,f36bb5bfd9fb9610a0b8c4b497cc6626:-202882151,336b75bf79fb9610b10332ec27c261f2:-1463753324,2e6b3d7f56fb96106de695f441390ca7:-202882151,34f9353f39fb9610e2bcd3bea9587fa1:462556704,6e39b1fb56fb9610530fe97fb3c41b9d:-14101153,dfd8f9bb77fb96105f5cb56ef7e6c3f5:-745934294,95a8b5bb36fb9610a27bd5ac27ac7bfa:-269276437,8488f1bb93fb96106d82d8fe8aef691b:-1913062558,6e877d3b9ffb9610f87ff3442ef007a1:-1085610465,b947393b00fb961000e0b3b93749eb90:1373807535,6717753b9cfb96101f5ca310c8e4134f:418325579</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">fd77e09e4750a650f84d57f1d16d4389</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-17 09:44:26</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_link">sp_instance_link</sys_db_object>
+        <sys_id>87efd3286b154f8ea35e2ff7ff72af04</sys_id>
+        <sys_metadata>eb17753b47fb9610f84d57f1d16d430f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name> HR Portal</sys_name>
+        <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
+        <sys_scope_delete display_value="">348d703e357349b0aa59bac8cf64b401</sys_scope_delete>
+        <sys_update_name>sp_instance_link_eb17753b47fb9610f84d57f1d16d430f</sys_update_name>
+        <sys_update_version display_value="sp_instance_link_eb17753b47fb9610f84d57f1d16d430f">5c994637477f9610f84d57f1d16d43db</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-17 09:44:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

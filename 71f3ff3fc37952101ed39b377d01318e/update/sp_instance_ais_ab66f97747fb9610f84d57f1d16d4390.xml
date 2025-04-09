@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_ais">
+    <sp_instance_ais action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ai_search_source_filter/>
+        <class_name/>
+        <color>default</color>
+        <css>h2{
+color:#3389cf;
+}
+.h4{
+color:#c45cc4;
+}
+</css>
+        <disable_all_suggestions>false</disable_all_suggestions>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <placeholder>Search here </placeholder>
+        <roles/>
+        <search_application display_value="Knowledge Portal Search Configuration">2e74f9b077e40210694782c79f5a99e8</search_application>
+        <search_results_configuration display_value="Knowledge Portal Search">dbca0596672102106947c98f06b42099</search_results_configuration>
+        <short_description>Hire Smarter, Faster, and Better</short_description>
+        <size>md</size>
+        <sp_column display_value="1">70b0a97b477b9610f84d57f1d16d43a4</sp_column>
+        <sp_widget display_value="Homepage Search">200fbd96cb20020000f8d856634c9ca1</sp_widget>
+        <spell_check_font_size>xl</spell_check_font_size>
+        <sys_class_name>sp_instance_ais</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-25 10:48:56</sys_created_on>
+        <sys_id>ab66f97747fb9610f84d57f1d16d4390</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>Welcome to ZeRecruiter</sys_name>
+        <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
+        <sys_update_name>sp_instance_ais_ab66f97747fb9610f84d57f1d16d4390</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-17 09:55:59</sys_updated_on>
+        <title>Welcome to ZeRecruiter</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"typeahead_search": {
+		"value": " Welcome to ZeRecruiter",
+		"displayValue": " Welcome to ZeRecruiter"
+	}
+}]]></widget_parameters>
+    </sp_instance_ais>
+    <sys_translated_text action="delete_multiple" query="documentkey=ab66f97747fb9610f84d57f1d16d4390"/>
+</record_update>
