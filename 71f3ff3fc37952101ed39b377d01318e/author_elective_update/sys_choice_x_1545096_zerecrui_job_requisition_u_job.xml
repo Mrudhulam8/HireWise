@@ -96,7 +96,7 @@
             <element>u_job</element>
             <hint/>
             <inactive>true</inactive>
-            <label>Developer</label>
+            <label>Marketing</label>
             <language>en</language>
             <name>x_1545096_zerecrui_job_requisition</name>
             <sequence>2</sequence>
@@ -105,10 +105,10 @@
             <sys_created_on>2024-12-10 10:22:11</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-10 10:26:22</sys_updated_on>
-            <value>Developer</value>
+            <sys_updated_on>2025-04-09 11:15:48</sys_updated_on>
+            <value>Marketing</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -210,7 +210,7 @@
             <element>u_job</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Marketing</label>
+            <label>Developer</label>
             <language>en</language>
             <name>x_1545096_zerecrui_job_requisition</name>
             <sequence>7</sequence>
@@ -219,10 +219,10 @@
             <sys_created_on>2024-12-10 10:22:11</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-10 10:26:21</sys_updated_on>
-            <value>Marketing</value>
+            <sys_updated_on>2025-04-09 11:15:48</sys_updated_on>
+            <value>Developer</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -238,9 +238,9 @@
             <sys_created_on>2024-12-10 10:22:11</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-10 10:26:21</sys_updated_on>
+            <sys_updated_on>2025-04-09 11:15:48</sys_updated_on>
             <value>Project Manager</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -257,10 +257,29 @@
             <sys_created_on>2024-12-10 10:22:11</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_mod_count>3</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-10 10:26:21</sys_updated_on>
+            <sys_updated_on>2025-04-09 11:15:48</sys_updated_on>
             <value>Trainee Engineer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_job</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Marketing Executive</label>
+            <language>en</language>
+            <name>x_1545096_zerecrui_job_requisition</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-09 11:15:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-09 11:15:48</sys_updated_on>
+            <value>Marketing Executive</value>
         </sys_choice>
     </sys_choice>
 </record_update>

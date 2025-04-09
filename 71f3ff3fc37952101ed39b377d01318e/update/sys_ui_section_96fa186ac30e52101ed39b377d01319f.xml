@@ -4,13 +4,13 @@
             <element>process_flow.xml</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-06 09:21:09</sys_created_on>
-            <sys_id>449918b1c39e52101ed39b377d0131fd</sys_id>
+            <sys_created_on>2025-04-09 11:13:55</sys_created_on>
+            <sys_id>3c889ba5c3f422101ed39b377d0131a3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter display_value="Process Flow">4797dce2c30e52101ed39b377d013188</sys_ui_formatter>
             <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">96fa186ac30e52101ed39b377d01319f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-06 09:21:09</sys_updated_on>
+            <sys_updated_on>2025-04-09 11:13:55</sys_updated_on>
             <sys_user/>
             <type>formatter</type>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>.begin_split</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-06 09:21:09</sys_created_on>
-            <sys_id>409918b1c39e52101ed39b377d0131fe</sys_id>
+            <sys_created_on>2025-04-09 11:13:55</sys_created_on>
+            <sys_id>49889ba5c3f422101ed39b377d0131a4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">96fa186ac30e52101ed39b377d01319f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-06 09:21:09</sys_updated_on>
+            <sys_updated_on>2025-04-09 11:13:55</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>number</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-06 09:21:09</sys_created_on>
-            <sys_id>489918b1c39e52101ed39b377d0131fe</sys_id>
+            <sys_created_on>2025-04-09 11:13:56</sys_created_on>
+            <sys_id>41889ba5c3f422101ed39b377d0131a5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">96fa186ac30e52101ed39b377d01319f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-06 09:21:09</sys_updated_on>
+            <sys_updated_on>2025-04-09 11:13:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>u_requested_by</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-06 09:21:09</sys_created_on>
-            <sys_id>409918b1c39e52101ed39b377d0131ff</sys_id>
+            <sys_created_on>2025-04-09 11:13:56</sys_created_on>
+            <sys_id>49889ba5c3f422101ed39b377d0131a5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">96fa186ac30e52101ed39b377d01319f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-06 09:21:09</sys_updated_on>
+            <sys_updated_on>2025-04-09 11:13:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>u_requested_by_email</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-06 09:21:09</sys_created_on>
-            <sys_id>489918b1c39e52101ed39b377d0131ff</sys_id>
+            <sys_created_on>2025-04-09 11:13:56</sys_created_on>
+            <sys_id>41889ba5c3f422101ed39b377d0131a6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">96fa186ac30e52101ed39b377d01319f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-06 09:21:09</sys_updated_on>
+            <sys_updated_on>2025-04-09 11:13:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>u_report_to</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-06 09:21:09</sys_created_on>
-            <sys_id>409958b1c39e52101ed39b377d013100</sys_id>
+            <sys_created_on>2025-04-09 11:13:56</sys_created_on>
+            <sys_id>49889ba5c3f422101ed39b377d0131a6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">96fa186ac30e52101ed39b377d01319f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-06 09:21:09</sys_updated_on>
+            <sys_updated_on>2025-04-09 11:13:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>assigned_to_group</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-06 09:21:09</sys_created_on>
-            <sys_id>489958b1c39e52101ed39b377d013100</sys_id>
+            <sys_created_on>2025-04-09 11:13:56</sys_created_on>
+            <sys_id>41889ba5c3f422101ed39b377d0131a7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">96fa186ac30e52101ed39b377d01319f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-06 09:21:09</sys_updated_on>
+            <sys_updated_on>2025-04-09 11:13:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>u_job</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-06 09:21:09</sys_created_on>
-            <sys_id>409958b1c39e52101ed39b377d013101</sys_id>
+            <sys_created_on>2025-04-09 11:13:56</sys_created_on>
+            <sys_id>49889ba5c3f422101ed39b377d0131a7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">96fa186ac30e52101ed39b377d01319f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-06 09:21:09</sys_updated_on>
+            <sys_updated_on>2025-04-09 11:13:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -116,13 +116,13 @@
             <element>job_type</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-06 09:21:09</sys_created_on>
-            <sys_id>489958b1c39e52101ed39b377d013101</sys_id>
+            <sys_created_on>2025-04-09 11:13:56</sys_created_on>
+            <sys_id>41889ba5c3f422101ed39b377d0131a8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">96fa186ac30e52101ed39b377d01319f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-06 09:21:09</sys_updated_on>
+            <sys_updated_on>2025-04-09 11:13:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -130,13 +130,13 @@
             <element>u_short</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-06 09:21:09</sys_created_on>
-            <sys_id>409958b1c39e52101ed39b377d013102</sys_id>
+            <sys_created_on>2025-04-09 11:13:56</sys_created_on>
+            <sys_id>49889ba5c3f422101ed39b377d0131a8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">96fa186ac30e52101ed39b377d01319f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-06 09:21:09</sys_updated_on>
+            <sys_updated_on>2025-04-09 11:13:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -144,13 +144,13 @@
             <element>.split</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-06 09:21:09</sys_created_on>
-            <sys_id>489958b1c39e52101ed39b377d013102</sys_id>
+            <sys_created_on>2025-04-09 11:13:56</sys_created_on>
+            <sys_id>41889ba5c3f422101ed39b377d0131a9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">96fa186ac30e52101ed39b377d01319f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-06 09:21:09</sys_updated_on>
+            <sys_updated_on>2025-04-09 11:13:56</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -158,13 +158,13 @@
             <element>when_needed</element>
             <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-06 09:21:09</sys_created_on>
-            <sys_id>409958b1c39e52101ed39b377d013103</sys_id>
+            <sys_created_on>2025-04-09 11:13:56</sys_created_on>
+            <sys_id>49889ba5c3f422101ed39b377d0131a9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">96fa186ac30e52101ed39b377d01319f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-06 09:21:09</sys_updated_on>
+            <sys_updated_on>2025-04-09 11:13:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -172,13 +172,13 @@
             <element>u_department</element>
             <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-06 09:21:09</sys_created_on>
-            <sys_id>489958b1c39e52101ed39b377d013103</sys_id>
+            <sys_created_on>2025-04-09 11:13:56</sys_created_on>
+            <sys_id>41889ba5c3f422101ed39b377d0131aa</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">96fa186ac30e52101ed39b377d01319f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-06 09:21:09</sys_updated_on>
+            <sys_updated_on>2025-04-09 11:13:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -186,13 +186,13 @@
             <element>u_location</element>
             <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-06 09:21:09</sys_created_on>
-            <sys_id>409958b1c39e52101ed39b377d013104</sys_id>
+            <sys_created_on>2025-04-09 11:13:56</sys_created_on>
+            <sys_id>49889ba5c3f422101ed39b377d0131aa</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">96fa186ac30e52101ed39b377d01319f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-06 09:21:09</sys_updated_on>
+            <sys_updated_on>2025-04-09 11:13:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -200,13 +200,13 @@
             <element>u_experience</element>
             <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-06 09:21:09</sys_created_on>
-            <sys_id>489958b1c39e52101ed39b377d013104</sys_id>
+            <sys_created_on>2025-04-09 11:13:56</sys_created_on>
+            <sys_id>41889ba5c3f422101ed39b377d0131ab</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">96fa186ac30e52101ed39b377d01319f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-06 09:21:09</sys_updated_on>
+            <sys_updated_on>2025-04-09 11:13:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -214,13 +214,13 @@
             <element>u_positions</element>
             <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-06 09:21:09</sys_created_on>
-            <sys_id>409958b1c39e52101ed39b377d013105</sys_id>
+            <sys_created_on>2025-04-09 11:13:56</sys_created_on>
+            <sys_id>49889ba5c3f422101ed39b377d0131ab</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">96fa186ac30e52101ed39b377d01319f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-06 09:21:09</sys_updated_on>
+            <sys_updated_on>2025-04-09 11:13:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -228,13 +228,13 @@
             <element>u_age</element>
             <position>16</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-06 09:21:09</sys_created_on>
-            <sys_id>489958b1c39e52101ed39b377d013105</sys_id>
+            <sys_created_on>2025-04-09 11:13:56</sys_created_on>
+            <sys_id>41889ba5c3f422101ed39b377d0131ac</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">96fa186ac30e52101ed39b377d01319f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-06 09:21:09</sys_updated_on>
+            <sys_updated_on>2025-04-09 11:13:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -242,13 +242,13 @@
             <element>state</element>
             <position>17</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-06 09:21:09</sys_created_on>
-            <sys_id>409958b1c39e52101ed39b377d013106</sys_id>
+            <sys_created_on>2025-04-09 11:13:56</sys_created_on>
+            <sys_id>49889ba5c3f422101ed39b377d0131ac</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">96fa186ac30e52101ed39b377d01319f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-06 09:21:09</sys_updated_on>
+            <sys_updated_on>2025-04-09 11:13:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -256,13 +256,13 @@
             <element>u_budget</element>
             <position>18</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-06 09:21:09</sys_created_on>
-            <sys_id>489958b1c39e52101ed39b377d013106</sys_id>
+            <sys_created_on>2025-04-09 11:13:56</sys_created_on>
+            <sys_id>41889ba5c3f422101ed39b377d0131ad</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">96fa186ac30e52101ed39b377d01319f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-06 09:21:09</sys_updated_on>
+            <sys_updated_on>2025-04-09 11:13:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -270,13 +270,13 @@
             <element>.end_split</element>
             <position>19</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-06 09:21:09</sys_created_on>
-            <sys_id>409958b1c39e52101ed39b377d013107</sys_id>
+            <sys_created_on>2025-04-09 11:13:56</sys_created_on>
+            <sys_id>49889ba5c3f422101ed39b377d0131ad</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">96fa186ac30e52101ed39b377d01319f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-06 09:21:09</sys_updated_on>
+            <sys_updated_on>2025-04-09 11:13:56</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -284,13 +284,13 @@
             <element>u_educational</element>
             <position>20</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-06 09:21:09</sys_created_on>
-            <sys_id>489958b1c39e52101ed39b377d013107</sys_id>
+            <sys_created_on>2025-04-09 11:13:56</sys_created_on>
+            <sys_id>41889ba5c3f422101ed39b377d0131ae</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">96fa186ac30e52101ed39b377d01319f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-06 09:21:09</sys_updated_on>
+            <sys_updated_on>2025-04-09 11:13:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -298,13 +298,13 @@
             <element>u_job_summary</element>
             <position>21</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-06 09:21:09</sys_created_on>
-            <sys_id>409958b1c39e52101ed39b377d013108</sys_id>
+            <sys_created_on>2025-04-09 11:13:56</sys_created_on>
+            <sys_id>49889ba5c3f422101ed39b377d0131ae</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">96fa186ac30e52101ed39b377d01319f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-06 09:21:09</sys_updated_on>
+            <sys_updated_on>2025-04-09 11:13:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -312,97 +312,41 @@
             <element>u_skills</element>
             <position>22</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-06 09:21:09</sys_created_on>
-            <sys_id>489958b1c39e52101ed39b377d013108</sys_id>
+            <sys_created_on>2025-04-09 11:13:56</sys_created_on>
+            <sys_id>41889ba5c3f422101ed39b377d0131af</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">96fa186ac30e52101ed39b377d01319f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-06 09:21:09</sys_updated_on>
+            <sys_updated_on>2025-04-09 11:13:56</sys_updated_on>
             <sys_user/>
             <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.begin_split</element>
-            <position>23</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-06 09:21:09</sys_created_on>
-            <sys_id>409958b1c39e52101ed39b377d013109</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">96fa186ac30e52101ed39b377d01319f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-06 09:21:09</sys_updated_on>
-            <sys_user/>
-            <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_job_decription</element>
-            <position>24</position>
+            <position>23</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-06 09:21:09</sys_created_on>
-            <sys_id>489958b1c39e52101ed39b377d013109</sys_id>
+            <sys_created_on>2025-04-09 11:13:56</sys_created_on>
+            <sys_id>49889ba5c3f422101ed39b377d0131af</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">96fa186ac30e52101ed39b377d01319f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-06 09:21:09</sys_updated_on>
+            <sys_updated_on>2025-04-09 11:13:56</sys_updated_on>
             <sys_user/>
             <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
-            <position>25</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-06 09:21:09</sys_created_on>
-            <sys_id>409958b1c39e52101ed39b377d01310a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">96fa186ac30e52101ed39b377d01319f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-06 09:21:09</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_html_1</element>
-            <position>26</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-06 09:21:09</sys_created_on>
-            <sys_id>489958b1c39e52101ed39b377d01310a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">96fa186ac30e52101ed39b377d01319f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-06 09:21:09</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.end_split</element>
-            <position>27</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-06 09:21:09</sys_created_on>
-            <sys_id>409958b1c39e52101ed39b377d01310b</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">96fa186ac30e52101ed39b377d01319f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-06 09:21:09</sys_updated_on>
-            <sys_user/>
-            <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>reason_to_reject</element>
-            <position>28</position>
+            <position>24</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-06 09:21:09</sys_created_on>
-            <sys_id>489958b1c39e52101ed39b377d01310b</sys_id>
+            <sys_created_on>2025-04-09 11:13:56</sys_created_on>
+            <sys_id>41889ba5c3f422101ed39b377d0131b0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="New Section" display_value="New Section" name="x_1545096_zerecrui_job_requisition" sys_domain="global" view="Default view">96fa186ac30e52101ed39b377d01319f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-06 09:21:09</sys_updated_on>
+            <sys_updated_on>2025-04-09 11:13:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

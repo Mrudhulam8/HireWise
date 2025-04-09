@@ -19,6 +19,44 @@
             <dependent_value/>
             <element>u_job</element>
             <hint/>
+            <inactive>true</inactive>
+            <label>Developer</label>
+            <language>en</language>
+            <name>x_1545096_zerecrui_candidate_submissions</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-09 10:09:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-09 10:59:39</sys_updated_on>
+            <value>developer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_job</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Others</label>
+            <language>en</language>
+            <name>x_1545096_zerecrui_candidate_submissions</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-09 10:09:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>8</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-09 11:03:15</sys_updated_on>
+            <value>others</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_job</element>
+            <hint/>
             <inactive>false</inactive>
             <label>Sales Executive</label>
             <language>en</language>
@@ -29,9 +67,9 @@
             <sys_created_on>2024-12-10 10:45:46</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-10 10:45:46</sys_updated_on>
+            <sys_updated_on>2025-04-09 10:59:38</sys_updated_on>
             <value>Sales Executive</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -48,9 +86,9 @@
             <sys_created_on>2024-12-10 10:45:46</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-10 10:45:46</sys_updated_on>
+            <sys_updated_on>2025-04-09 10:59:38</sys_updated_on>
             <value>Senior Developer</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -67,9 +105,9 @@
             <sys_created_on>2024-12-10 10:45:46</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-10 10:45:46</sys_updated_on>
+            <sys_updated_on>2025-04-09 10:59:38</sys_updated_on>
             <value>Solution Consultant</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -86,9 +124,9 @@
             <sys_created_on>2024-12-10 10:45:46</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-10 10:45:46</sys_updated_on>
+            <sys_updated_on>2025-04-09 10:59:38</sys_updated_on>
             <value>System Administrator</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -105,9 +143,9 @@
             <sys_created_on>2024-12-10 10:45:46</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-10 10:45:46</sys_updated_on>
+            <sys_updated_on>2025-04-09 10:59:38</sys_updated_on>
             <value>BA</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -124,9 +162,9 @@
             <sys_created_on>2024-12-10 10:45:46</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-10 10:45:46</sys_updated_on>
+            <sys_updated_on>2025-04-09 10:59:38</sys_updated_on>
             <value>HR</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -143,9 +181,9 @@
             <sys_created_on>2024-12-10 10:45:46</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-10 10:45:46</sys_updated_on>
+            <sys_updated_on>2025-04-09 10:59:38</sys_updated_on>
             <value>Junior Developer</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -162,9 +200,9 @@
             <sys_created_on>2024-12-10 10:45:46</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>6</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-10 10:45:46</sys_updated_on>
+            <sys_updated_on>2025-04-09 11:00:32</sys_updated_on>
             <value>Marketing</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -181,9 +219,9 @@
             <sys_created_on>2024-12-10 10:45:46</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-10 10:45:46</sys_updated_on>
+            <sys_updated_on>2025-04-09 10:59:39</sys_updated_on>
             <value>Project Manager</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -200,9 +238,9 @@
             <sys_created_on>2024-12-10 10:45:46</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-10 10:45:46</sys_updated_on>
+            <sys_updated_on>2025-04-09 10:59:39</sys_updated_on>
             <value>Trainee Engineer</value>
         </sys_choice>
     </sys_choice>

@@ -4,9 +4,7 @@
         <application display_value="Candidate Submission">f6870966534612102f9732a0a0490ea7</application>
         <assessment/>
         <device_type/>
-        <filter table="x_1545096_zerecrui_candidate_submissions">state=13^EQ<item display_value="Shortlisted" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="13"/>
-            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
-        </filter>
+        <filter/>
         <hint/>
         <homepage/>
         <image/>
@@ -20,14 +18,14 @@
         <query>&amp;sysparm_fixed_query=state=13</query>
         <report/>
         <require_confirmation>true</require_confirmation>
-        <roles>x_1545096_zerecrui.ZeRecruiter_HR,x_1545096_zerecrui.admin,x_1545096_zerecrui.Tech_interviewer</roles>
+        <roles>x_1545096_zerecrui.ZeRecruiter_HR,x_1545096_zerecrui.admin</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-11-28 09:15:24</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>dd3e3603c38256101ed39b377d0131d6</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Shortlisted Candidates</sys_name>
         <sys_overrides/>
         <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
@@ -35,7 +33,7 @@
         <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
         <sys_update_name>sys_app_module_dd3e3603c38256101ed39b377d0131d6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-11-28 09:27:02</sys_updated_on>
+        <sys_updated_on>2025-04-09 06:17:59</sys_updated_on>
         <timeline_page/>
         <title>Shortlisted Candidates</title>
         <uncancelable>false</uncancelable>

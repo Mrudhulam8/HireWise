@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-27 06:34:14</sys_created_on>
+        <sys_id>5c0d15fac346d2101ed39b377d013179</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1545096_zerecrui_candidate_submissions.x_1545096_zerecrui.techHead_interviewer</sys_name>
+        <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
+        <sys_security_acl display_value="x_1545096_zerecrui_candidate_submissions">7d2c19bac346d2101ed39b377d01318c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_5c0d15fac346d2101ed39b377d013179</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-27 06:34:14</sys_updated_on>
+        <sys_user_role display_value="x_1545096_zerecrui.techHead_interviewer" name="x_1545096_zerecrui.techHead_interviewer">d0ac55fac346d2101ed39b377d0131ce</sys_user_role>
+    </sys_security_acl_role>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</application>
+        <file_path/>
+        <instance_id>04e88f1e1b267510ba5ceb9b2d4bcb07</instance_id>
+        <instance_name>dev216831</instance_name>
+        <name>sys_security_acl_role_5c0d15fac346d2101ed39b377d013179</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-27 06:34:14</sys_created_on>
+        <sys_id>5c0d15fac346d2101ed39b377d013179</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1545096_zerecrui_candidate_submissions.x_1545096_zerecrui.techHead_interviewer</sys_name>
+        <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
+        <sys_security_acl display_value="x_1545096_zerecrui_candidate_submissions">7d2c19bac346d2101ed39b377d01318c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_5c0d15fac346d2101ed39b377d013179</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-27 06:34:14</sys_updated_on>
+        <sys_user_role display_value="x_1545096_zerecrui.techHead_interviewer" name="x_1545096_zerecrui.techHead_interviewer">d0ac55fac346d2101ed39b377d0131ce</sys_user_role>
+    </sys_security_acl_role>
+</record_update>]]></payload>
+        <payload_hash>992199179</payload_hash>
+        <record_name>x_1545096_zerecrui_candidate_submissions.x_1545096_zerecrui.techHead_interviewer</record_name>
+        <reverted_from/>
+        <source>64b1ae5dc3b0a2101ed39b377d0131f1</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-08 12:37:08</sys_created_on>
+        <sys_id>0ef1aeddc3b0a2101ed39b377d013179</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196156785f40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-08 12:37:08</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>c6f1aedd13b0a2105c2c79b463c39379</update_guid>
+        <update_guid_history>c6f1aedd13b0a2105c2c79b463c39379:0,997911c8f37422105a0d2f41cc8f78f8:-1661307254,0ec59ed93970a210a38e48123356b488:0,997911c8f37422105a0d2f41cc8f78f8:-1661307254,cb0d9dfa6646d210818c382a00918e2a:61361981</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1545096_zerecrui_candidate_submissions.x_1545096_zerecrui.techHead_interviewer">b640126dc33022101ed39b377d0131fe</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-09 05:58:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>c786195bf7204ec08dbdc85940b5d310</sys_id>
+        <sys_metadata>5c0d15fac346d2101ed39b377d013179</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1545096_zerecrui_candidate_submissions.x_1545096_zerecrui.techHead_interviewer</sys_name>
+        <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
+        <sys_parent display_value="x_1545096_zerecrui_candidate_submissions">7d2c19bac346d2101ed39b377d01318c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
+        <sys_scope_delete display_value="">348d703e357349b0aa59bac8cf64b401</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_5c0d15fac346d2101ed39b377d013179</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_5c0d15fac346d2101ed39b377d013179">0ef1aeddc3b0a2101ed39b377d013179</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-09 05:58:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

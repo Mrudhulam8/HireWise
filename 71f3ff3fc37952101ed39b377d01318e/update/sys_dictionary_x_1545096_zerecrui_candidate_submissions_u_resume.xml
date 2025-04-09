@@ -28,7 +28,7 @@
         <function_definition/>
         <function_field>false</function_field>
         <internal_type display_value="">file_attachment</internal_type>
-        <mandatory>false</mandatory>
+        <mandatory>true</mandatory>
         <max_length>40</max_length>
         <name>x_1545096_zerecrui_candidate_submissions</name>
         <next_element/>
@@ -53,7 +53,7 @@
         <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
         <sys_update_name>sys_dictionary_x_1545096_zerecrui_candidate_submissions_u_resume</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-11-26 10:27:15</sys_updated_on>
+        <sys_updated_on>2025-04-09 10:22:09</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

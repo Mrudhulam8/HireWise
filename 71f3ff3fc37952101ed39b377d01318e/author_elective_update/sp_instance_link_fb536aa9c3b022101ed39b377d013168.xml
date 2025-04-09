@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>check-square-o</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description>Click here to view the Indent Requests</short_description>
+        <size>md</size>
+        <sp_column display_value="1">33190af3477f9610f84d57f1d16d43e8</sp_column>
+        <sp_page display_value="jobrequisition_page">2efb722dc33422101ed39b377d01319d</sp_page>
+        <sp_widget display_value="Copy of Icon Link">81b12ae5c3b022101ed39b377d0131b1</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-09 07:21:44</sys_created_on>
+        <sys_id>fb536aa9c3b022101ed39b377d013168</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Job Requisition Page</sys_name>
+        <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
+        <sys_update_name>sp_instance_link_fb536aa9c3b022101ed39b377d013168</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-09 09:19:13</sys_updated_on>
+        <title>Job Requisition Page</title>
+        <type>page</type>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Circle Icon",
+		"displayValue": "Circle Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="DELETE" query="documentkey=fb536aa9c3b022101ed39b377d013168"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</application>
+        <file_path/>
+        <instance_id>04e88f1e1b267510ba5ceb9b2d4bcb07</instance_id>
+        <instance_name>dev216831</instance_name>
+        <name>sp_instance_link_fb536aa9c3b022101ed39b377d013168</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;check-square-o&lt;/glyph&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category/&gt;&lt;kb_topic/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item/&gt;&lt;sc_category/&gt;&lt;short_description&gt;Click here to view the Indent Requests&lt;/short_description&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;33190af3477f9610f84d57f1d16d43e8&lt;/sp_column&gt;&lt;sp_page display_value="jobrequisition_page"&gt;2efb722dc33422101ed39b377d01319d&lt;/sp_page&gt;&lt;sp_widget display_value="Copy of Icon Link"&gt;81b12ae5c3b022101ed39b377d0131b1&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-04-09 07:21:44&lt;/sys_created_on&gt;&lt;sys_id&gt;fb536aa9c3b022101ed39b377d013168&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Job Requisition Page&lt;/sys_name&gt;&lt;sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui"&gt;71f3ff3fc37952101ed39b377d01318e&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="ZeRecruiter"&gt;71f3ff3fc37952101ed39b377d01318e&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_fb536aa9c3b022101ed39b377d013168&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-04-09 09:19:13&lt;/sys_updated_on&gt;&lt;title&gt;Job Requisition Page&lt;/title&gt;&lt;type&gt;page&lt;/type&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"link_template": {
+		"value": "Circle Icon",
+		"displayValue": "Circle Icon"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=fb536aa9c3b022101ed39b377d013168"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>878972323</payload_hash>
+        <record_name>Job Requisition Page</record_name>
+        <reverted_from/>
+        <source>e672b32dc37822101ed39b377d01314f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-09 09:19:13</sys_created_on>
+        <sys_id>e84eb6edc33422101ed39b377d01314f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_recorded_at>19619d8b0ae0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-09 13:07:24</sys_updated_on>
+        <type>Instance with Link</type>
+        <update_guid>604eb6ed5b342210b11c0663ae85b64f</update_guid>
+        <update_guid_history>604eb6ed5b342210b11c0663ae85b64f:878972323,9bb3e6a926b02210dbec6475d8c5144a:861784267,b3536aa9d6b02210fc9fbf4cbb80a46a:-2015214018</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Job Requisition Page">034e3aedc33422101ed39b377d013190</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-09 09:19:23</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_link">sp_instance_link</sys_db_object>
+        <sys_id>9b40b59d6ccc491abaafe31d904e35c4</sys_id>
+        <sys_metadata>fb536aa9c3b022101ed39b377d013168</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Job Requisition Page</sys_name>
+        <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
+        <sys_scope_delete display_value="">348d703e357349b0aa59bac8cf64b401</sys_scope_delete>
+        <sys_update_name>sp_instance_link_fb536aa9c3b022101ed39b377d013168</sys_update_name>
+        <sys_update_version display_value="sp_instance_link_fb536aa9c3b022101ed39b377d013168">e84eb6edc33422101ed39b377d01314f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-09 09:19:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

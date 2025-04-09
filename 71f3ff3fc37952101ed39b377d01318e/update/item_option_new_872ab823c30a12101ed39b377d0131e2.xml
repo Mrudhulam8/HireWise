@@ -5,8 +5,8 @@
         <cat_item display_value="Candidate Submission">4e8abb97c38212101ed39b377d013108</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
-        <choice_field/>
-        <choice_table/>
+        <choice_field>u_location_1</choice_field>
+        <choice_table>x_1545096_zerecrui_candidate_submissions</choice_table>
         <create_roles/>
         <default_html_value/>
         <default_value/>
@@ -21,7 +21,7 @@
         <dynamic_value_field/>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
-        <field>u_location</field>
+        <field>u_location_1</field>
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
@@ -33,21 +33,21 @@
         <lookup_label/>
         <lookup_price/>
         <lookup_table/>
-        <lookup_unique>false</lookup_unique>
+        <lookup_unique>true</lookup_unique>
         <lookup_value/>
         <macro/>
         <macroponent/>
-        <mandatory>false</mandatory>
+        <mandatory>true</mandatory>
         <map_to_field>true</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>u_location</name>
+        <name>u_location_1</name>
         <order>31</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>Preferred Location</question_text>
+        <question_text>Preferred Location 1</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -77,17 +77,17 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-11-29 11:58:12</sys_created_on>
         <sys_id>872ab823c30a12101ed39b377d0131e2</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Preferred Location</sys_name>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>u_location_1</sys_name>
         <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
         <sys_policy/>
         <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
         <sys_update_name>item_option_new_872ab823c30a12101ed39b377d0131e2</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-11-29 12:09:46</sys_updated_on>
+        <sys_updated_on>2025-04-09 11:34:09</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>8</type>
+        <type>5</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>

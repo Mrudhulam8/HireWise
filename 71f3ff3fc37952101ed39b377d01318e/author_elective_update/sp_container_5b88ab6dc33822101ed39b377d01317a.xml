@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>ZeRecruiterHome - Container 4</name>
+        <order>4</order>
+        <semantic_tag/>
+        <sp_page display_value="zerecruiterhome">b1ef917b477b9610f84d57f1d16d43a9</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-09 12:23:59</sys_created_on>
+        <sys_id>5b88ab6dc33822101ed39b377d01317a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>ZeRecruiterHome - Container 4</sys_name>
+        <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
+        <sys_update_name>sp_container_5b88ab6dc33822101ed39b377d01317a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-09 12:25:27</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</application>
+        <file_path/>
+        <instance_id>04e88f1e1b267510ba5ceb9b2d4bcb07</instance_id>
+        <instance_name>dev216831</instance_name>
+        <name>sp_container_5b88ab6dc33822101ed39b377d01317a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>ZeRecruiterHome - Container 4</name><order>4</order><semantic_tag/><sp_page display_value="zerecruiterhome">b1ef917b477b9610f84d57f1d16d43a9</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-09 12:23:59</sys_created_on><sys_id>5b88ab6dc33822101ed39b377d01317a</sys_id><sys_mod_count>1</sys_mod_count><sys_name>ZeRecruiterHome - Container 4</sys_name><sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package><sys_policy/><sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope><sys_update_name>sp_container_5b88ab6dc33822101ed39b377d01317a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-09 12:25:27</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>1397297946</payload_hash>
+        <record_name>ZeRecruiterHome - Container 4</record_name>
+        <reverted_from/>
+        <source>e672b32dc37822101ed39b377d01314f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-09 12:25:27</sys_created_on>
+        <sys_id>24e8e7adc33822101ed39b377d01310d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_recorded_at>1961a832fe60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-09 13:07:22</sys_updated_on>
+        <type>Container</type>
+        <update_guid>a8e8e7adcc382210095d7ddb2d798a0c</update_guid>
+        <update_guid_history>a8e8e7adcc382210095d7ddb2d798a0c:1397297946,df88ab6dd638221062f49c29841c747b:-427899271</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="ZeRecruiterHome - Container 4">2f89e3edc33822101ed39b377d0131e5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-09 12:28:23</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>01f93e54fbc349dca63a86c9d410c010</sys_id>
+        <sys_metadata>5b88ab6dc33822101ed39b377d01317a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ZeRecruiterHome - Container 4</sys_name>
+        <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
+        <sys_scope_delete display_value="">348d703e357349b0aa59bac8cf64b401</sys_scope_delete>
+        <sys_update_name>sp_container_5b88ab6dc33822101ed39b377d01317a</sys_update_name>
+        <sys_update_version display_value="sp_container_5b88ab6dc33822101ed39b377d01317a">24e8e7adc33822101ed39b377d01310d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-09 12:28:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>2</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">33194af3477f9610f84d57f1d16d4303</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-17 09:44:44</sys_created_on>
+        <sys_id>ce87601e4750a650f84d57f1d16d43a7</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
+        <sys_update_name>sp_instance_link_ce87601e4750a650f84d57f1d16d43a7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-09 07:20:57</sys_updated_on>
+        <title/>
+        <type>page</type>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_link>
+    <sys_translated_text action="DELETE" query="documentkey=ce87601e4750a650f84d57f1d16d43a7"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</application>
+        <file_path/>
+        <instance_id>04e88f1e1b267510ba5ceb9b2d4bcb07</instance_id>
+        <instance_name>dev216831</instance_name>
+        <name>sp_instance_link_ce87601e4750a650f84d57f1d16d43a7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link"><sp_instance_link action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><kb_article/><kb_category/><kb_topic/><order>2</order><roles/><sc_cat_item/><sc_category/><short_description/><size>md</size><sp_column display_value="2">33194af3477f9610f84d57f1d16d4303</sp_column><sp_page/><sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget><sys_class_name>sp_instance_link</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-17 09:44:44</sys_created_on><sys_id>ce87601e4750a650f84d57f1d16d43a7</sys_id><sys_mod_count>7</sys_mod_count><sys_name/><sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package><sys_policy/><sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope><sys_update_name>sp_instance_link_ce87601e4750a650f84d57f1d16d43a7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-09 07:20:57</sys_updated_on><title/><type>page</type><url/><widget_parameters/></sp_instance_link><sys_translated_text action="delete_multiple" query="documentkey=ce87601e4750a650f84d57f1d16d43a7"/></record_update>]]></payload>
+        <payload_hash>-1255848248</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>e672b32dc37822101ed39b377d01314f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-09 07:20:57</sys_created_on>
+        <sys_id>103326a9c3b022101ed39b377d01315a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_recorded_at>196196c6ab80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-09 13:07:24</sys_updated_on>
+        <type>Instance with Link</type>
+        <update_guid>943326a97bb02210f71d2a938c916659</update_guid>
+        <update_guid_history>943326a97bb02210f71d2a938c916659:-1255848248,c83326a9d9b02210e01c0676ac09d828:667021865,b723e2a9adb022105c67969b75f18bfe:-1255848248,9922ea299eb022104312f9a7e459090e:1116248935,2712aa29cbb02210bd0c96ebed5f7b55:-1255848248,62f1a6297eb0221007de36da245b16ed:1116248935,561a2c524490a650c31dedfbc6a19bf2:-1255848248,0287649e5550a650f4c0d2cc27dac1d0:667021865</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">de532aa9c3b022101ed39b377d0131e7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-09 07:21:38</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_link">sp_instance_link</sys_db_object>
+        <sys_id>63de3ce3a8f04400afa01c096d999000</sys_id>
+        <sys_metadata>ce87601e4750a650f84d57f1d16d43a7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
+        <sys_scope_delete display_value="">348d703e357349b0aa59bac8cf64b401</sys_scope_delete>
+        <sys_update_name>sp_instance_link_ce87601e4750a650f84d57f1d16d43a7</sys_update_name>
+        <sys_update_version display_value="sp_instance_link_ce87601e4750a650f84d57f1d16d43a7">103326a9c3b022101ed39b377d01315a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-09 07:21:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -6,7 +6,7 @@
         <css/>
         <display_field>number</display_field>
         <field_list/>
-        <filter table="x_1545096_zerecrui_candidate_submissions">state=13<item display_value="Shortlisted" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="13"/>
+        <filter table="x_1545096_zerecrui_candidate_submissions">state=77<item display_value="Technical interview 1" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="77"/>
         </filter>
         <glyph>th-list</glyph>
         <id/>
@@ -24,14 +24,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-11-28 10:24:28</sys_created_on>
         <sys_id>155b13c7c30656101ed39b377d0131a3</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>13</sys_mod_count>
         <sys_name>Technical Interview Candidates</sys_name>
         <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
         <sys_policy/>
         <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
         <sys_update_name>sp_instance_vlist_155b13c7c30656101ed39b377d0131a3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-11-29 06:23:33</sys_updated_on>
+        <sys_updated_on>2025-04-09 06:50:16</sys_updated_on>
         <table>x_1545096_zerecrui_candidate_submissions</table>
         <title>Technical Interview Candidates</title>
         <url/>

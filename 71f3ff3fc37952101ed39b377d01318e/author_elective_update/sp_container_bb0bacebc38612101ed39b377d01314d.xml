@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>ZeRecruiter Home - Container 5</name>
+        <order>5</order>
+        <semantic_tag/>
+        <sp_page display_value="zerecruiter_home">2e6e1bc9c30212101ed39b377d013114</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-29 10:51:16</sys_created_on>
+        <sys_id>bb0bacebc38612101ed39b377d01314d</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name>ZeRecruiter Home - Container 5</sys_name>
+        <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
+        <sys_update_name>sp_container_bb0bacebc38612101ed39b377d01314d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-09 06:43:16</sys_updated_on>
+        <title/>
+        <width>container-fluid</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</application>
+        <file_path/>
+        <instance_id>04e88f1e1b267510ba5ceb9b2d4bcb07</instance_id>
+        <instance_name>dev216831</instance_name>
+        <name>sp_container_bb0bacebc38612101ed39b377d01314d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>ZeRecruiter Home - Container 5</name><order>5</order><semantic_tag/><sp_page display_value="zerecruiter_home">2e6e1bc9c30212101ed39b377d013114</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-29 10:51:16</sys_created_on><sys_id>bb0bacebc38612101ed39b377d01314d</sys_id><sys_mod_count>12</sys_mod_count><sys_name>ZeRecruiter Home - Container 5</sys_name><sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package><sys_policy/><sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope><sys_update_name>sp_container_bb0bacebc38612101ed39b377d01314d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-09 06:43:16</sys_updated_on><title/><width>container-fluid</width></sp_container></record_update>]]></payload>
+        <payload_hash>668465375</payload_hash>
+        <record_name>ZeRecruiter Home - Container 5</record_name>
+        <reverted_from/>
+        <source>e672b32dc37822101ed39b377d01314f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-09 06:43:16</sys_created_on>
+        <sys_id>5c9a122dc37022101ed39b377d0131cc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_recorded_at>1961949e9870000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-09 13:07:25</sys_updated_on>
+        <type>Container</type>
+        <update_guid>d09a122de9702210e913374c925276cc</update_guid>
+        <update_guid_history>d09a122de9702210e913374c925276cc:668465375,8a7a9ee934702210175f8d80c3443e16:1293246718,d8f1eaddc5b0a21046d884f8f22fc242:0,29969dae02902210cb003807d0a34bf4:455635861,3bb5dad9a770a210d482c63683a6206e:0,29969dae02902210cb003807d0a34bf4:455635861,8bc489e202502210676b4ee98ebc0f6e:-581097311,e27481e29950221045d27a1a19bf65ac:43684032,ef5401e231502210cf00d4c855053260:668465375,7d340da2cf50221048eece09acad0134:43684032,af521a778ef712109896654267cc1270:668465375,0c91563784f712100a7a3841b230e3f6:43684032,394afd77f642921076f45eb3c81eb043:668465375,3da8b9f345429210f376334047a3734d:43684032,2088f5f37b4292105e1016383c03bf10:668465375,546835f3c542921055e24f23e989e305:43684032,5d767933db4292101256c8afefb4c469:668465375,13f5bdff96029210420dcaa9510dbf7a:1293246718,4cfea1b7b40292102622452c3ffa1695:1918028061,76cb246ff186121010378a668fcee346:-1752157892,447b282ff98612102cb8663efec7c2f8:2010003481,a06be82f6186121004ca0ff17aca091e:1590987962,330bacebb9861210c7602e96a2175d4f:2010003481</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="ZeRecruiter Home - Container 5">7d4b9a2dc37022101ed39b377d013186</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-09 06:46:23</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>02523ffa3be243f2803a166b9d555809</sys_id>
+        <sys_metadata>bb0bacebc38612101ed39b377d01314d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ZeRecruiter Home - Container 5</sys_name>
+        <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
+        <sys_scope_delete display_value="">348d703e357349b0aa59bac8cf64b401</sys_scope_delete>
+        <sys_update_name>sp_container_bb0bacebc38612101ed39b377d01314d</sys_update_name>
+        <sys_update_version display_value="sp_container_bb0bacebc38612101ed39b377d01314d">5c9a122dc37022101ed39b377d0131cc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-09 06:46:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
