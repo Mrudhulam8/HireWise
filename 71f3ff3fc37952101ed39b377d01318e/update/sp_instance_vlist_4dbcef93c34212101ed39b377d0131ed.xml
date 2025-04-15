@@ -12,27 +12,27 @@
         <glyph>align-justify</glyph>
         <id/>
         <maximum_entries>5</maximum_entries>
-        <order>2</order>
+        <order>1</order>
         <order_by/>
         <order_direction>asc</order_direction>
         <roles/>
         <short_description/>
         <size>md</size>
-        <sp_column display_value="1">7d5fd70fc30656101ed39b377d01311a</sp_column>
+        <sp_column display_value="2">715fd70fc30656101ed39b377d01311d</sp_column>
         <sp_page display_value="form">ed5f8ec347730200ba13a5554ee49046</sp_page>
         <sp_widget display_value="Simple List">5b255672cb03020000f8d856634c9c28</sp_widget>
         <sys_class_name>sp_instance_vlist</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-11-29 06:18:50</sys_created_on>
         <sys_id>4dbcef93c34212101ed39b377d0131ed</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Technical Interview 2 candidates</sys_name>
         <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
         <sys_policy/>
         <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
         <sys_update_name>sp_instance_vlist_4dbcef93c34212101ed39b377d0131ed</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-04-09 06:49:40</sys_updated_on>
+        <sys_updated_on>2025-04-15 07:43:27</sys_updated_on>
         <table>x_1545096_zerecrui_candidate_submissions</table>
         <title>Technical Interview 2 candidates</title>
         <url/>

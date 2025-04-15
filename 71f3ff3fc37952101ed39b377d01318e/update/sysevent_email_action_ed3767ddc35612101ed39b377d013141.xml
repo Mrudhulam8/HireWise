@@ -40,9 +40,9 @@
         <mandatory>false</mandatory>
         <message/>
         <message_html><![CDATA[<p>Greetings ${u_requested_for},</p>
-<p>Your job application has been submitted successfully.</p>
-<p>We'll look into it and inform you.</p>
-<p>Thank you.</p>]]></message_html>
+<p data-end="309" data-start="169">Thank you for applying for the<strong> ${u_choice_1}</strong> position. We&rsquo;ve received your application and will review it shortly.</p>
+<p data-end="392" data-start="311">If your profile matches our requirements, we&rsquo;ll contact you for the next steps.</p>
+<p>Best regards, <br>ZeTechno HR Team.</p>]]></message_html>
         <message_list/>
         <message_text/>
         <name>Send Mail to applied candidates</name>
@@ -56,7 +56,7 @@
         <send_self>true</send_self>
         <sms_alternate/>
         <style/>
-        <subject>Your Application has been submitted</subject>
+        <subject> Application has been submitted</subject>
         <subscribable>false</subscribable>
         <sys_class_name>sysevent_email_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -64,7 +64,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>ed3767ddc35612101ed39b377d013141</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Send Mail to applied candidates</sys_name>
         <sys_overrides/>
         <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
@@ -72,7 +72,7 @@
         <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
         <sys_update_name>sysevent_email_action_ed3767ddc35612101ed39b377d013141</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-04-09 09:47:22</sys_updated_on>
+        <sys_updated_on>2025-04-11 06:08:51</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Candidate">58b872e5c33422101ed39b377d013102</template>
         <type>email</type>

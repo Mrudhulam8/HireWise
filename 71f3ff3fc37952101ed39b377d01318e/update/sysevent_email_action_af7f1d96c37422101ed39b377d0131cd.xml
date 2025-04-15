@@ -36,43 +36,42 @@
         <item_table/>
         <mandatory>false</mandatory>
         <message/>
-        <message_html><![CDATA[<p><span data-teams="true">Greetings&nbsp;,</span></p>
-<p data-end="257" data-start="166">The candidate has been <strong>shortlisted</strong> and is now scheduled for the upcoming interview round.&nbsp;</p>
-<p data-end="310" data-start="259">Interview Date &amp; Time Slot 1: ${u_interview_date_time}</p>
-<p data-end="310" data-start="259">Interview Date/Time Slot 2: ${u_slot_2}</p>
-<p data-end="310" data-start="259">Interview Date/Time Slot 3: ${u_slot_3}</p>
-<p data-end="376" data-start="312">Kindly create and share the meeting link for the scheduled time.</p>
-<p><span data-teams="true">Thank you.<br><br>Best Regards,<br></span>ZeRecruiter Team</p>]]></message_html>
+        <message_html><![CDATA[<p>Greetings,</p>
+<p>Following the interview with ${u_requested_for} for the position of ${u_choice_1}, kindly share your feedback and let us know whether you would recommend the candidate for the next stage of the process.</p>
+<p>kindly confirm whether the candidate is Approved or Rejected for the next stage of the process.</p>
+<p><a href="https://dev216831.service-now.com/zr?id=zerecruiter_hire" target="_blank" rel="noopener">Click here to proceed</a></p>
+<p>Thank you</p>
+<p>Best Regards,<br>ZeTechno HR Team.</p>]]></message_html>
         <message_list/>
         <message_text/>
-        <name>send mail to HR team</name>
+        <name>Send mail to interviewer after interview</name>
         <omit_watermark>false</omit_watermark>
         <order>100</order>
         <push_message_only>false</push_message_only>
-        <recipient_fields>u_report_to</recipient_fields>
+        <recipient_fields>u_task_assigned_to.email</recipient_fields>
         <recipient_groups/>
         <recipient_users/>
         <reply_to/>
-        <send_self>true</send_self>
+        <send_self>false</send_self>
         <sms_alternate/>
         <style/>
-        <subject>Create Meeting Link for Scheduled Interview</subject>
+        <subject>Interview Feedback Request – ${u_requested_for}, ${u_choice_1}</subject>
         <subscribable>false</subscribable>
         <sys_class_name>sysevent_email_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-04-09 09:26:13</sys_created_on>
+        <sys_created_on>2025-04-11 10:24:13</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>910ffa21c37422101ed39b377d013178</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>send mail to HR team</sys_name>
+        <sys_id>af7f1d96c37422101ed39b377d0131cd</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Send mail to interviewer after interview</sys_name>
         <sys_overrides/>
         <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
         <sys_policy/>
         <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
-        <sys_update_name>sysevent_email_action_910ffa21c37422101ed39b377d013178</sys_update_name>
+        <sys_update_name>sysevent_email_action_af7f1d96c37422101ed39b377d0131cd</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-04-11 06:24:08</sys_updated_on>
+        <sys_updated_on>2025-04-15 11:49:13</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Interviewer">d00d762dc33422101ed39b377d0131b8</template>
         <type>email</type>
