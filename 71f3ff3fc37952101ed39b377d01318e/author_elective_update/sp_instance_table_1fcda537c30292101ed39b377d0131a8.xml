@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table">
+    <sp_instance_table action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>success</color>
+        <css/>
+        <display_field/>
+        <field_list>number,u_requested_by,u_job,u_department,state</field_list>
+        <filter/>
+        <glyph>empty</glyph>
+        <id/>
+        <maximum_entries>7</maximum_entries>
+        <order>1</order>
+        <order_by>number</order_by>
+        <order_direction>desc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">9d9b9a6dc37022101ed39b377d013194</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Copy of Copy of Data Table from Instance">65bd2df3c30292101ed39b377d01319a</sp_widget>
+        <sys_class_name>sp_instance_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-30 10:21:21</sys_created_on>
+        <sys_id>1fcda537c30292101ed39b377d0131a8</sys_id>
+        <sys_mod_count>37</sys_mod_count>
+        <sys_name>All Job Requisition requests</sys_name>
+        <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
+        <sys_update_name>sp_instance_table_1fcda537c30292101ed39b377d0131a8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-09 06:47:56</sys_updated_on>
+        <table>x_1545096_zerecrui_job_requisition</table>
+        <title>All Job Requisition requests</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_table>
+    <sys_translated_text action="DELETE" query="documentkey=1fcda537c30292101ed39b377d0131a8"/>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</application>
+        <file_path/>
+        <instance_id>743d5559ffe82658c80bf8e4fc4fd918</instance_id>
+        <instance_name>dev311750</instance_name>
+        <name>sp_instance_table_1fcda537c30292101ed39b377d0131a8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table">
+    <sp_instance_table action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>success</color>
+        <css/>
+        <display_field/>
+        <field_list>number,u_requested_by,u_job,u_department,state</field_list>
+        <filter/>
+        <glyph>empty</glyph>
+        <id/>
+        <maximum_entries>7</maximum_entries>
+        <order>1</order>
+        <order_by>number</order_by>
+        <order_direction>desc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">9d9b9a6dc37022101ed39b377d013194</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Copy of Copy of Data Table from Instance">65bd2df3c30292101ed39b377d01319a</sp_widget>
+        <sys_class_name>sp_instance_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-30 10:21:21</sys_created_on>
+        <sys_id>1fcda537c30292101ed39b377d0131a8</sys_id>
+        <sys_mod_count>37</sys_mod_count>
+        <sys_name>All Job Requisition requests</sys_name>
+        <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
+        <sys_update_name>sp_instance_table_1fcda537c30292101ed39b377d0131a8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-09 06:47:56</sys_updated_on>
+        <table>x_1545096_zerecrui_job_requisition</table>
+        <title>All Job Requisition requests</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_table>
+    <sys_translated_text action="delete_multiple" query="documentkey=1fcda537c30292101ed39b377d0131a8"/>
+</record_update>]]></payload>
+        <payload_hash>145700190</payload_hash>
+        <record_name>All Job Requisition requests</record_name>
+        <reverted_from/>
+        <source>8ed838e183e56210d78bf2b5eeaad300</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-16 06:24:08</sys_created_on>
+        <sys_id>e0097c2583e56210d78bf2b5eeaad34c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196d7c3afbd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-16 06:24:08</sys_updated_on>
+        <type>Instance with Table</type>
+        <update_guid>a0097c2564e56210f2b041d814df394c</update_guid>
+        <update_guid_history>a0097c2564e56210f2b041d814df394c:145700190</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="All Job Requisition requests">361345a583296210d78bf2b5eeaad3d5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-16 07:08:15</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_table">sp_instance_table</sys_db_object>
+        <sys_id>29d9053dc662449abdf933b5f2641a59</sys_id>
+        <sys_metadata>1fcda537c30292101ed39b377d0131a8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All Job Requisition requests</sys_name>
+        <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
+        <sys_scope_delete display_value="">348d703e357349b0aa59bac8cf64b401</sys_scope_delete>
+        <sys_update_name>sp_instance_table_1fcda537c30292101ed39b377d0131a8</sys_update_name>
+        <sys_update_version display_value="sp_instance_table_1fcda537c30292101ed39b377d0131a8">e0097c2583e56210d78bf2b5eeaad34c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-16 07:08:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
