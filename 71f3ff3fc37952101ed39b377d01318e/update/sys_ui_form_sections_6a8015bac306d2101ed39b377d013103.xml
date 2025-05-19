@@ -35,12 +35,12 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>4ff05dbac306d2101ed39b377d013135</sys_id>
-            <sys_mod_count>7</sys_mod_count>
+            <sys_mod_count>9</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_1545096_zerecrui_candidate_submissions" name="x_1545096_zerecrui_candidate_submissions" sys_domain="global" view="Default view">6a8015bac306d2101ed39b377d013103</sys_ui_form>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_1545096_zerecrui_candidate_submissions" sys_domain="global" view="Default view">b2f05dbac306d2101ed39b377d01312f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-05-19 05:29:50</sys_updated_on>
+            <sys_updated_on>2025-05-19 06:58:13</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_1545096_zerecrui_candidate_submissions</name>

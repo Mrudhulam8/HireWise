@@ -62,7 +62,7 @@
                 <element inactive_on_update="false" label="Experienced" sequence="1" value="experienced"/>
             </choice>
         </element>
-        <element attributes="encode_utf8=false" choice="3" dependent="u_job" dependent_on_field="u_job" label="Indent number" max_length="32" name="u_indent" reference="x_1545096_zerecrui_job_requisition" reference_qual="javascript: 'u_job=' + current.u_job;" type="reference" use_dependent_field="true" use_reference_qualifier="advanced">
+        <element attributes="encode_utf8=false" choice="3" dependent="u_job" dependent_on_field="u_job" label="Indent number" max_length="32" name="u_indent" reference="x_1545096_zerecrui_job_requisition" reference_qual="javascript: 'u_job=' + current.u_choice_1;" type="reference" use_dependent_field="true" use_reference_qualifier="advanced">
             <choice/>
         </element>
         <element attributes="edge_encryption_enabled=true" label="SpecifyTitle" max_length="40" name="u_title" type="string"/>
