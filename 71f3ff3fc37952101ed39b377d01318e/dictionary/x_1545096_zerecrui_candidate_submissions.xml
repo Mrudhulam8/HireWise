@@ -1,140 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element audit="true" db_object_id="761d30e6530612102f9732a0a0490ec5" extends="task" label="Candidate Submissions" max_length="40" name="x_1545096_zerecrui_candidate_submissions" type="collection">
-        <element attributes="edge_encryption_enabled=true" label="Notice period" max_length="40" name="u_notice_period" type="boolean"/>
-        <element attributes="encode_utf8=false" choice="3" dependent="u_job" dependent_on_field="u_job" label="Indent number" max_length="32" name="u_indent" reference="x_1545096_zerecrui_job_requisition" reference_qual="javascript: 'u_job=' + current.u_job;" type="reference" use_dependent_field="true" use_reference_qualifier="advanced">
-            <choice/>
-        </element>
-        <element attributes="edge_encryption_enabled=true" label="Previous Company" max_length="40" name="u_previous" type="string"/>
-        <element attributes="edge_encryption_enabled=true" choice="1" label="Preffered Location" max_length="40" name="u_location_1" type="string">
-            <choice>
-                <element inactive_on_update="false" label="Pune" sequence="2" value="pune"/>
-                <element inactive_on_update="false" label="Mumbai" sequence="6" value="mumbai"/>
-                <element inactive_on_update="false" label="Chennai" sequence="1" value="chennai"/>
-                <element inactive_on_update="false" label="Gurgaon" sequence="5" value="gurgaon"/>
-                <element inactive_on_update="false" label="Noida" sequence="4" value="noida"/>
-                <element inactive_on_update="false" label="Vizag" sequence="8" value="vizag"/>
-                <element inactive_on_update="false" label="Bangalore" sequence="3" value="bangalore"/>
-                <element inactive_on_update="false" label="Delhi" sequence="7" value="delhi"/>
-                <element inactive_on_update="false" label="Kochi" sequence="10" value="kochi"/>
-                <element inactive_on_update="false" label="Bhubaneshwar" sequence="9" value="bhubaneshwar"/>
-                <element inactive_on_update="false" label="Hyderabad" sequence="0" value="hyderabad"/>
-            </choice>
-        </element>
-        <element attributes="encode_utf8=false" default="9df86d58c386d2101ed39b377d0131c2" label="Report to" max_length="32" name="u_report_to" read_only="true" reference="sys_user_group" type="reference"/>
-        <element attributes="edge_encryption_enabled=true" label="Github Profile Link" max_length="1024" name="u_url_github" type="url"/>
-        <element attributes="edge_encryption_enabled=true" label="Experience in years" max_length="40" name="u_exp_years" type="integer"/>
-        <element attributes="edge_encryption_enabled=true" label="Schooling" max_length="40" name="u_school" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="SpecifyTitle" max_length="40" name="u_title" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Email" mandatory="true" max_length="40" name="u_requested_for_email" type="string"/>
-        <element attributes="edge_encryption_enabled=true" choice="3" default="fresher" label="Experience" mandatory="true" max_length="40" name="u_experience" type="choice">
-            <choice>
-                <element inactive_on_update="false" label="Experienced" sequence="1" value="experienced"/>
-                <element inactive_on_update="false" label="Fresher" sequence="0" value="fresher"/>
-            </choice>
-        </element>
-        <element attributes="edge_encryption_enabled=true" label="Bacholor's degree" mandatory="true" max_length="40" name="u_ug" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Interview Date/time" max_length="40" name="u_interview_date_time" type="glide_date_time"/>
-        <element attributes="edge_encryption_enabled=true" choice="1" label="Preferred Location 2" max_length="40" name="u_location_2" type="string">
-            <choice>
-                <element inactive="true" inactive_on_update="true" label="Choice 1" sequence="0" value="Choice 1"/>
-                <element inactive_on_update="false" label="Delhi" sequence="7" value="delhi"/>
-                <element inactive_on_update="false" label="Bangalore" sequence="3" value="bangalore"/>
-                <element inactive_on_update="false" label="Mumbai" sequence="6" value="mumbai"/>
-                <element inactive_on_update="false" label="Kochi" sequence="10" value="kochi"/>
-                <element inactive_on_update="false" label="Pune" sequence="2" value="pune"/>
-                <element inactive_on_update="false" label="Gurgaon" sequence="5" value="gurgaon"/>
-                <element inactive_on_update="false" label="Bhubaneshwar" sequence="9" value="bhubaneshwar"/>
-                <element inactive_on_update="false" label="Chennai" sequence="1" value="chennai"/>
-                <element inactive_on_update="false" label="Vizag" sequence="8" value="vizag"/>
-                <element inactive_on_update="false" label="Hyderabad" sequence="0" value="hyderabad"/>
-                <element inactive_on_update="false" label="Noida" sequence="4" value="noida"/>
-                <element inactive="true" inactive_on_update="true" label="Choice 3" sequence="2" value="Choice 3"/>
-                <element inactive="true" inactive_on_update="true" label="Choice 2" sequence="1" value="Choice 2"/>
-            </choice>
-        </element>
-        <element attributes="edge_encryption_enabled=true" label="Intermediate/12th/deploma" max_length="40" name="u_inter" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Comments" max_length="4000" name="u_comments" type="journal"/>
-        <element attributes="edge_encryption_enabled=true" label="Post gradution" max_length="40" name="u_post" type="boolean"/>
-        <element attributes="edge_encryption_enabled=true" label="Age" max_length="40" name="u_age" type="integer"/>
-        <element attributes="edge_encryption_enabled=true" label="Address" mandatory="true" max_length="2000" name="u_address" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Describe about Your Project" max_length="4000" name="u_project" type="string"/>
-        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Department" mandatory="true" max_length="32" name="u_dept" reference="cmn_department" type="reference"/>
-        <element attributes="edge_encryption_enabled=true" label="Post Graduation" max_length="40" name="u_post_graduation" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Interview Date/Time Slot 2" max_length="40" name="u_slot_2" type="glide_date_time"/>
-        <element attributes="edge_encryption_enabled=true,encode_utf8=false" choice="1" label="Preferred Location" mandatory="true" max_length="32" name="u_location" type="choice">
-            <choice>
-                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
-                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
-                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
-            </choice>
-        </element>
-        <element attributes="edge_encryption_enabled=true" label="How many days for Notice period" max_length="40" name="u_days" type="integer"/>
-        <element attributes="encode_utf8=false" label="Task Assigned to" max_length="32" name="u_task_assigned_to" reference="sys_user_group" type="reference"/>
+        <element attributes="encode_utf8=false" default="9444cde583296210d78bf2b5eeaad340" label="Report to" max_length="32" name="u_report_to" read_only="true" reference="sys_user_group" type="reference"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Preferred Location" max_length="32" name="u_location" reference="cmn_location" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Phone Number" max_length="10" name="u_phone_1" type="string"/>
-        <element attributes="edge_encryption_enabled=true" choice="3" choice_field="u_job" choice_table="x_1545096_zerecrui_job_requisition" default="Sales Executive" label="Job Title" mandatory="true" max_length="40" name="u_job" type="string">
-            <choice>
-                <element inactive_on_update="false" label="BA" sequence="4" value="BA"/>
-                <element inactive_on_update="false" label="Project Manager" sequence="8" value="Project Manager"/>
-                <element inactive_on_update="false" label="Sales Executive" sequence="0" value="Sales Executive"/>
-                <element inactive_on_update="false" label="HR" sequence="5" value="HR"/>
-                <element inactive_on_update="false" label="Trainee Engineer" sequence="9" value="Trainee Engineer"/>
-                <element inactive_on_update="false" label="Senior Developer" sequence="1" value="Senior Developer"/>
-                <element inactive_on_update="false" label="Junior Developer" sequence="6" value="Junior Developer"/>
-                <element inactive="true" inactive_on_update="true" label="Others" sequence="0" value="others"/>
-                <element inactive_on_update="false" label="Solution Consultant" sequence="2" value="Solution Consultant"/>
-                <element inactive="true" inactive_on_update="true" label="Developer" sequence="0" value="developer"/>
-                <element inactive_on_update="false" label="Marketing" sequence="7" value="Marketing"/>
-                <element inactive_on_update="false" label="System Administrator" sequence="3" value="System Administrator"/>
-            </choice>
-        </element>
-        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Candidate Name" mandatory="true" max_length="32" name="u_requested_for" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Certifications" mandatory="true" max_length="4000" name="u_certificates" type="string"/>
-        <element attributes="edge_encryption_enabled=true" choice="1" label="Feedback from Interview" max_length="40" name="u_feedback" type="string">
-            <choice>
-                <element inactive_on_update="false" label="Approve" sequence="0" value="approve"/>
-                <element inactive_on_update="false" label="Rejected" sequence="1" value="rejected"/>
-            </choice>
-        </element>
+        <element attributes="edge_encryption_enabled=true" label="Post gradution" max_length="40" name="u_post" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Preffered Location 3" max_length="40" name="u_location_3" type="string">
             <choice>
-                <element inactive_on_update="false" label="Noida" sequence="4" value="noida"/>
-                <element inactive_on_update="false" label="Vizag" sequence="8" value="vizag"/>
+                <element inactive_on_update="false" label="Chennai" sequence="1" value="chennai"/>
                 <element inactive_on_update="false" label="Bangalore" sequence="3" value="bangalore"/>
-                <element inactive_on_update="false" label="Delhi" sequence="7" value="delhi"/>
-                <element inactive_on_update="false" label="Mumbai" sequence="6" value="mumbai"/>
-                <element inactive_on_update="false" label="Kochi" sequence="10" value="kochi"/>
-                <element inactive_on_update="false" label="Gurgaon" sequence="5" value="gurgaon"/>
                 <element inactive_on_update="false" label="Bhubaneshwar" sequence="9" value="bhubaneshwar"/>
-                <element inactive="true" inactive_on_update="true" label="Choice 3" sequence="2" value="Choice 3"/>
+                <element inactive_on_update="false" label="Kochi" sequence="10" value="kochi"/>
                 <element inactive="true" inactive_on_update="true" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Noida" sequence="4" value="noida"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Mumbai" sequence="6" value="mumbai"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 3" sequence="2" value="Choice 3"/>
+                <element inactive_on_update="false" label="Gurgaon" sequence="5" value="gurgaon"/>
+                <element inactive_on_update="false" label="Delhi" sequence="7" value="delhi"/>
                 <element inactive_on_update="false" label="Hyderabad" sequence="0" value="hyderabad"/>
                 <element inactive_on_update="false" label="Pune" sequence="2" value="pune"/>
-                <element inactive_on_update="false" label="Chennai" sequence="1" value="chennai"/>
-                <element inactive="true" inactive_on_update="true" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Vizag" sequence="8" value="vizag"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" default="trainee engineer" label="Job Title" max_length="40" name="u_choice_1" type="string">
             <choice>
-                <element inactive_on_update="false" label="Marketing Executive" sequence="10" value="marketing executive"/>
-                <element inactive="true" inactive_on_update="true" label="Choice 1" sequence="0" value="Choice 1"/>
-                <element inactive_on_update="false" label="HR" sequence="0" value="hr"/>
-                <element inactive_on_update="false" label="Senior Developer" sequence="4" value="senior developer"/>
-                <element inactive_on_update="false" label="Solution Consultant" sequence="8" value="solution consultant"/>
-                <element inactive="true" inactive_on_update="true" label="Choice 3" sequence="2" value="Choice 3"/>
-                <element inactive_on_update="false" label="Developer" sequence="3" value="developer"/>
-                <element inactive_on_update="false" label="Sales Executive" sequence="7" value="sales executive"/>
-                <element inactive="true" inactive_on_update="true" label="Choice 2" sequence="1" value="Choice 2"/>
-                <element inactive_on_update="false" label="Junior Developer" sequence="2" value="junior developer"/>
-                <element inactive_on_update="false" label="Project Manager" sequence="6" value="project manager"/>
                 <element inactive_on_update="false" label="Others" sequence="11" value="others"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 3" sequence="2" value="Choice 3"/>
                 <element inactive_on_update="false" label="BA" sequence="1" value="ba"/>
                 <element inactive_on_update="false" label="Trainee Engineer" sequence="5" value="trainee engineer"/>
+                <element inactive_on_update="false" label="Junior Developer" sequence="2" value="junior developer"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Project Manager" sequence="6" value="project manager"/>
+                <element inactive_on_update="false" label="Solution Consultant" sequence="8" value="solution consultant"/>
+                <element inactive_on_update="false" label="Sales Executive" sequence="7" value="sales executive"/>
                 <element inactive_on_update="false" label="System Administrator" sequence="9" value="system administrator"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Developer" sequence="3" value="developer"/>
+                <element inactive_on_update="false" label="Marketing Executive" sequence="10" value="marketing executive"/>
+                <element inactive_on_update="false" label="HR" sequence="0" value="hr"/>
+                <element inactive_on_update="false" label="Senior Developer" sequence="4" value="senior developer"/>
             </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true" label="Interview Date/Time Slot 3" max_length="40" name="u_slot_3" type="glide_date_time"/>
-        <element attributes="edge_encryption_enabled=true" label="LinkedIn profile url" mandatory="true" max_length="1024" name="u_url_linkedin" type="url"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Department" mandatory="true" max_length="32" name="u_dept" reference="cmn_department" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Comments" max_length="4000" name="u_comments" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" label="How many days for Notice period" max_length="40" name="u_days" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Certifications" mandatory="true" max_length="4000" name="u_certificates" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Bacholor's degree" mandatory="true" max_length="40" name="u_ug" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Feedback from Interview" max_length="40" name="u_feedback" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Rejected" sequence="1" value="rejected"/>
+                <element inactive_on_update="false" label="Approve" sequence="0" value="approve"/>
+            </choice>
+        </element>
         <element attributes="edge_encryption_enabled=true" hint="YYYY-MM-DD" label="Date of Birth" mandatory="true" max_length="40" name="u_dob" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Experience in years" max_length="40" name="u_exp_years" type="integer"/>
+        <element attributes="encode_utf8=false" label="Task Assigned to" max_length="32" name="u_task_assigned_to" reference="sys_user_group" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="fresher" label="Experience" mandatory="true" max_length="40" name="u_experience" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Fresher" sequence="0" value="fresher"/>
+                <element inactive_on_update="false" label="Experienced" sequence="1" value="experienced"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" choice="3" dependent="u_job" dependent_on_field="u_job" label="Indent number" max_length="32" name="u_indent" reference="x_1545096_zerecrui_job_requisition" reference_qual="javascript: 'u_job=' + current.u_job;" type="reference" use_dependent_field="true" use_reference_qualifier="advanced">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="SpecifyTitle" max_length="40" name="u_title" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Github Profile Link" max_length="1024" name="u_url_github" type="url"/>
+        <element attributes="edge_encryption_enabled=true" label="LinkedIn profile url" mandatory="true" max_length="1024" name="u_url_linkedin" type="url"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Preffered Location" max_length="40" name="u_location_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Hyderabad" sequence="0" value="hyderabad"/>
+                <element inactive_on_update="false" label="Kochi" sequence="10" value="kochi"/>
+                <element inactive_on_update="false" label="Gurgaon" sequence="5" value="gurgaon"/>
+                <element inactive_on_update="false" label="Chennai" sequence="1" value="chennai"/>
+                <element inactive_on_update="false" label="Pune" sequence="2" value="pune"/>
+                <element inactive_on_update="false" label="Mumbai" sequence="6" value="mumbai"/>
+                <element inactive_on_update="false" label="Vizag" sequence="8" value="vizag"/>
+                <element inactive_on_update="false" label="Bangalore" sequence="3" value="bangalore"/>
+                <element inactive_on_update="false" label="Delhi" sequence="7" value="delhi"/>
+                <element inactive_on_update="false" label="Bhubaneshwar" sequence="9" value="bhubaneshwar"/>
+                <element inactive_on_update="false" label="Noida" sequence="4" value="noida"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Previous Company" max_length="40" name="u_previous" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Address" mandatory="true" max_length="2000" name="u_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Notice period" max_length="40" name="u_notice_period" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Interview Date/time" max_length="40" name="u_interview_date_time" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" choice_field="u_job" choice_table="x_1545096_zerecrui_job_requisition" default="Sales Executive" label="Job Title" mandatory="true" max_length="40" name="u_job" type="string">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="Others" sequence="0" value="others"/>
+                <element inactive_on_update="false" label="Project Manager" sequence="8" value="Project Manager"/>
+                <element inactive_on_update="false" label="System Administrator" sequence="3" value="System Administrator"/>
+                <element inactive_on_update="false" label="Sales Executive" sequence="0" value="Sales Executive"/>
+                <element inactive_on_update="false" label="Trainee Engineer" sequence="9" value="Trainee Engineer"/>
+                <element inactive_on_update="false" label="BA" sequence="4" value="BA"/>
+                <element inactive_on_update="false" label="Junior Developer" sequence="6" value="Junior Developer"/>
+                <element inactive_on_update="false" label="Senior Developer" sequence="1" value="Senior Developer"/>
+                <element inactive_on_update="false" label="HR" sequence="5" value="HR"/>
+                <element inactive="true" inactive_on_update="true" label="Developer" sequence="0" value="developer"/>
+                <element inactive_on_update="false" label="Marketing" sequence="7" value="Marketing"/>
+                <element inactive_on_update="false" label="Solution Consultant" sequence="2" value="Solution Consultant"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Preferred Location 2" max_length="40" name="u_location_2" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Bhubaneshwar" sequence="9" value="bhubaneshwar"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 3" sequence="2" value="Choice 3"/>
+                <element inactive_on_update="false" label="Gurgaon" sequence="5" value="gurgaon"/>
+                <element inactive_on_update="false" label="Kochi" sequence="10" value="kochi"/>
+                <element inactive_on_update="false" label="Hyderabad" sequence="0" value="hyderabad"/>
+                <element inactive_on_update="false" label="Pune" sequence="2" value="pune"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Mumbai" sequence="6" value="mumbai"/>
+                <element inactive_on_update="false" label="Chennai" sequence="1" value="chennai"/>
+                <element inactive_on_update="false" label="Bangalore" sequence="3" value="bangalore"/>
+                <element inactive_on_update="false" label="Delhi" sequence="7" value="delhi"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Noida" sequence="4" value="noida"/>
+                <element inactive_on_update="false" label="Vizag" sequence="8" value="vizag"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Candidate Name" mandatory="true" max_length="32" name="u_requested_for" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" mandatory="true" max_length="40" name="u_requested_for_email" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Upload Resume" mandatory="true" max_length="40" name="u_resume" type="file_attachment"/>
+        <element attributes="edge_encryption_enabled=true" label="Interview Date/Time Slot 2" max_length="40" name="u_slot_2" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Schooling" max_length="40" name="u_school" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Interview Date/Time Slot 3" max_length="40" name="u_slot_3" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Intermediate/12th/deploma" max_length="40" name="u_inter" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Age" max_length="40" name="u_age" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Post Graduation" max_length="40" name="u_post_graduation" type="string"/>
     </element>
 </database>
