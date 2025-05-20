@@ -33,7 +33,7 @@
         <script><![CDATA[if (!current.reason_to_reject) {
     gs.addErrorMessage('Please provide a reason in the Comments field before rejecting.');
      current.setAbortAction(true); 
-	//action.setRedirectURL(current); 
+	action.setRedirectURL(current); 
 } 
 else{
 current.state = '8'; 
@@ -51,7 +51,7 @@ gs.addInfoMessage('The record has been Rejected.');
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>9e8a17fcc34612101ed39b377d01317f</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Reject</sys_name>
         <sys_overrides/>
         <sys_package display_value="ZeRecruiter" source="x_1545096_zerecrui">71f3ff3fc37952101ed39b377d01318e</sys_package>
@@ -59,7 +59,7 @@ gs.addInfoMessage('The record has been Rejected.');
         <sys_scope display_value="ZeRecruiter">71f3ff3fc37952101ed39b377d01318e</sys_scope>
         <sys_update_name>sys_ui_action_9e8a17fcc34612101ed39b377d01317f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-11-21 11:49:53</sys_updated_on>
+        <sys_updated_on>2025-05-20 11:26:01</sys_updated_on>
         <table>x_1545096_zerecrui_job_requisition</table>
         <ui11_compatible>true</ui11_compatible>
         <ui16_compatible>false</ui16_compatible>
